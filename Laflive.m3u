@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-ID="" tvg-name="|FR| DAZN COMBAT HD" tvg-logo="https://www.planetecsat.com/wp-content/uploads/2024/02/Entete-DAZN-Combat.png" group-title="EU | DAZN EVENT FR",|FR| DAZN COMBAT HD
 http://iptvpro.premium4k.org:2052/movie/PAB9946/PAB6628/playlist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="HANDBALL TV Multiplex LNH" tvg-logo="https://www.ffhandball.fr/wp-content/uploads/2023/05/HTV_LOGO_QUADRI_CARRE_MONO_ROUGE.jpg" group-title="EU | HANDBALL LNH",HANDBALL TV Multiplex LNH
-http://iptvpro.premium4k.org:2052/movie/PAB9946/PAB6628/12006.m3u8
+https://video02-lax.streamup.com/app/max2a114s-stream/playlist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="HANDBALL TV 1 HD (LIVE EVENT ONLY)" tvg-logo="https://www.ffhandball.fr/wp-content/uploads/2023/05/HTV_LOGO_QUADRI_CARRE_MONO_ROUGE.jpg" group-title="EU | HANDBALL LNH",HANDBALL TV 1 HD (LIVE EVENT ONLY)
 https://cors-anywhere.herokuapp.com/http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/528206
 #EXTINF:-1 tvg-ID="" tvg-name="HANDBALL TV 2 HD (LIVE EVENT ONLY)" tvg-logo="https://www.ffhandball.fr/wp-content/uploads/2023/05/HTV_LOGO_QUADRI_CARRE_MONO_ROUGE.jpg" group-title="EU | HANDBALL LNH",HANDBALL TV 2 HD (LIVE EVENT ONLY)
