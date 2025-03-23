@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1,RFI MONDE
 http://live-reflector.ice.infomaniak.ch/rfimonde-96k.mp3?rtmp://tv.muntumedia.com:1935/live/mp4:RTGA.mp4/pageUrl=http://www.muntumedia.com/docast.smbest
+#EXTINF:-1,RFI AFRIQUE
+http://live-reflector.ice.infomaniak.ch/rfiafrique-96k.mp3?rtmp://tv.muntumedia.com:1935/live/mp4:RTGA.mp4/pageUrl=http://www.muntumedia.com/docast.smbest
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
 #EXTINF:-1 tvg-id="3ABNFrench.us" tvg-logo="https://i.imgur.com/B5gsM7m.png" group-title="Religious",3ABN French
