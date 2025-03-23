@@ -141,7 +141,7 @@ rtmp://vipwowza.yacast.net:1935/rmc_decouverte_rtmp/live/manifest.f4m/rmc_decouv
 #EXTINF:-1,RADIO AFRICA NO1 French  sport
 http://african1paris.ice.infomaniak.ch/african1paris-64.mp3?rtmp://tv.muntumedia.com:1935/live/mp4:RTGA.mp4/pageUrl=http://www.muntumedia.com/docast.smbest
 #EXTINF:-1,RFI MONDE
-http://rfimonde-96k.ice.infomaniak.ch/rfimonde-96k.mp3
+http://live-reflector.ice.infomaniak.ch/rfimonde-96k.mp3?rtmp://tv.muntumedia.com:1935/live/mp4:RTGA.mp4/pageUrl=http://www.muntumedia.com/docast.smbest
 #EXTINF:-1,RADIO EUROPE
 http://mp3lg4.tdf-cdn.com/9240/lag_180945.mp3
 #EXTINF:-1,Radio RTL France  
