@@ -1,473 +1,150 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="" tvg-name="HANDBALL TV Multiplex LNH" tvg-logo="https://www.ffhandball.fr/wp-content/uploads/2023/05/HTV_LOGO_QUADRI_CARRE_MONO_ROUGE.jpg" group-title="EU | HANDBALL LNH",HANDBALL TV Multiplex LNH
-https://video02-lax.streamup.com/app/max2a114s-stream/playlist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="HANDBALL TV 1 HD (LIVE EVENT ONLY)" tvg-logo="https://www.ffhandball.fr/wp-content/uploads/2023/05/HTV_LOGO_QUADRI_CARRE_MONO_ROUGE.jpg" group-title="EU | HANDBALL LNH",HANDBALL TV 1 HD (LIVE EVENT ONLY)
-https://cors-anywhere.herokuapp.com/http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/528206
-#EXTINF:-1 tvg-ID="" tvg-name="HANDBALL TV 2 HD (LIVE EVENT ONLY)" tvg-logo="https://www.ffhandball.fr/wp-content/uploads/2023/05/HTV_LOGO_QUADRI_CARRE_MONO_ROUGE.jpg" group-title="EU | HANDBALL LNH",HANDBALL TV 2 HD (LIVE EVENT ONLY)
-https://cors-anywhere.herokuapp.com/http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/528205
-#EXTINF:-1 tvg-ID="" tvg-name="HANDBALL TV 3 HD (LIVE EVENT ONLY)" tvg-logo="https://www.ffhandball.fr/wp-content/uploads/2023/05/HTV_LOGO_QUADRI_CARRE_MONO_ROUGE.jpg" group-title="EU | HANDBALL LNH",HANDBALL TV 3 HD (LIVE EVENT ONLY)
-https://cors-anywhere.herokuapp.com/http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/528204
-#EXTINF:-1 tvg-ID="" tvg-name="HANDBALL TV 4 HD (LIVE EVENT ONLY)" tvg-logo="https://www.ffhandball.fr/wp-content/uploads/2023/05/HTV_LOGO_QUADRI_CARRE_MONO_ROUGE.jpg" group-title="EU | HANDBALL LNH",HANDBALL TV 4 HD (LIVE EVENT ONLY)
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/528203
-#EXTINF:-1 tvg-ID="" tvg-name="HANDBALL TV 5 HD (LIVE EVENT ONLY)" tvg-logo="https://www.ffhandball.fr/wp-content/uploads/2023/05/HTV_LOGO_QUADRI_CARRE_MONO_ROUGE.jpg" group-title="EU | HANDBALL LNH",HANDBALL TV 5 HD (LIVE EVENT ONLY)
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/528202
-#EXTINF:-1 tvg-ID="" tvg-name="HANDBALL TV 6 HD (LIVE EVENT ONLY)" tvg-logo="https://www.ffhandball.fr/wp-content/uploads/2023/05/HTV_LOGO_QUADRI_CARRE_MONO_ROUGE.jpg" group-title="EU | HANDBALL LNH",HANDBALL TV 6 HD (LIVE EVENT ONLY)
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/528201
-#EXTINF:-1 tvg-ID="" tvg-name="HANDBALL TV 7 HD (LIVE EVENT ONLY)" tvg-logo="https://www.ffhandball.fr/wp-content/uploads/2023/05/HTV_LOGO_QUADRI_CARRE_MONO_ROUGE.jpg" group-title="EU | HANDBALL LNH",HANDBALL TV 7 HD (LIVE EVENT ONLY)
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/528200
-#EXTINF:-1 tvg-ID="" tvg-name="HANDBALL TV 8 HD (LIVE EVENT ONLY)" tvg-logo="https://www.ffhandball.fr/wp-content/uploads/2023/05/HTV_LOGO_QUADRI_CARRE_MONO_ROUGE.jpg" group-title="EU | HANDBALL LNH",HANDBALL TV 8 HD (LIVE EVENT ONLY)
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/528199
-#EXTINF:-1 tvg-ID="" tvg-name="HANDBALL TV 9 HD (LIVE EVENT ONLY)" tvg-logo="https://www.ffhandball.fr/wp-content/uploads/2023/05/HTV_LOGO_QUADRI_CARRE_MONO_ROUGE.jpg" group-title="EU | HANDBALL LNH",HANDBALL TV 9 HD (LIVE EVENT ONLY)
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/528198
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| FFF TV 1" tvg-logo="https://www.sportbuzzbusiness.fr/wp-content/uploads/2020/07/logo-championnat-national-1-FFF-football.jpeg" group-title="EU | FFF NATIONAL",|FR| FFF TV 1
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/528174
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| FFF TV 2" tvg-logo="https://www.sportbuzzbusiness.fr/wp-content/uploads/2020/07/logo-championnat-national-1-FFF-football.jpeg" group-title="EU | FFF NATIONAL",|FR| FFF TV 2
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/528173
-#EXTINF:-1 tvg-ID="01tv.fr" tvg-name="|FR| FFF TV 3" tvg-logo="https://www.sportbuzzbusiness.fr/wp-content/uploads/2020/07/logo-championnat-national-1-FFF-football.jpeg" group-title="EU | FFF NATIONAL",|FR| FFF TV 3
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/528172
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| FFF TV 4" tvg-logo="https://www.sportbuzzbusiness.fr/wp-content/uploads/2020/07/logo-championnat-national-1-FFF-football.jpeg" group-title="EU | FFF NATIONAL",|FR| FFF TV 4
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/528171
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| FFF TV 5" tvg-logo="https://www.sportbuzzbusiness.fr/wp-content/uploads/2020/07/logo-championnat-national-1-FFF-football.jpeg" group-title="EU | FFF NATIONAL",|FR| FFF TV 5
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/528170
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| FFF TV 6" tvg-logo="https://www.sportbuzzbusiness.fr/wp-content/uploads/2020/07/logo-championnat-national-1-FFF-football.jpeg" group-title="EU | FFF NATIONAL",|FR| FFF TV 6
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/528169
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| FFF TV 7" tvg-logo="https://www.sportbuzzbusiness.fr/wp-content/uploads/2020/07/logo-championnat-national-1-FFF-football.jpeg" group-title="EU | FFF NATIONAL",|FR| FFF TV 7
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/528168
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| FFF TV 8" tvg-logo="https://www.sportbuzzbusiness.fr/wp-content/uploads/2020/07/logo-championnat-national-1-FFF-football.jpeg" group-title="EU | FFF NATIONAL",|FR| FFF TV 8
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/528167
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| FFF TV 9" tvg-logo="https://www.sportbuzzbusiness.fr/wp-content/uploads/2020/07/logo-championnat-national-1-FFF-football.jpeg" group-title="EU | FFF NATIONAL",|FR| FFF TV 9
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/528166
-#EXTINF:-1 tvg-ID="mangas.fr" tvg-name="|FR| MANGAS HD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mangas_fr.png" group-title="EU | FRANCE DESSIN ANIME",|FR| MANGAS HD
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/3772
-#EXTINF:-1 tvg-ID="" tvg-name="|C+CAR| MAYOTTE 1ERE" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mayotte-1ere-fr-yt.png" group-title="EU | FRANCE DOM-TOM",|C+CAR| MAYOTTE 1ERE
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/122846
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| STAR ACADEMY HD" tvg-logo="https://photos.tf1.fr/220/110/logo-programme-star-ac-15-11-avec-phrase-99fc74-03da50-0@3x.png" group-title="EU | FRANCE GENERAL",|FR| STAR ACADEMY HD
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/518099
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| STAR ACADEMY FHD" tvg-logo="https://photos.tf1.fr/220/110/logo-programme-star-ac-15-11-avec-phrase-99fc74-03da50-0@3x.png" group-title="EU | FRANCE GENERAL",|FR| STAR ACADEMY FHD
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/518098
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| CANAL+ LIVE 1 FHD" tvg-logo="https://logo-iptvpro.com/LOGO/CANAL+%20LIVE.webp" group-title="EU | CANAL+ LIVE  FRANCE",|FR| CANAL+ LIVE 1 FHD
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/511531
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| CANAL+ LIVE 1 HD" tvg-logo="https://logo-iptvpro.com/LOGO/CANAL+%20LIVE.webp" group-title="EU | CANAL+ LIVE  FRANCE",|FR| CANAL+ LIVE 1 HD
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/511530
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| CANAL+ LIVE 2 FHD" tvg-logo="https://logo-iptvpro.com/LOGO/CANAL+%20LIVE.webp" group-title="EU | CANAL+ LIVE  FRANCE",|FR| CANAL+ LIVE 2 FHD
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/511529
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| CANAL+ LIVE 2 HD" tvg-logo="https://logo-iptvpro.com/LOGO/CANAL+%20LIVE.webp" group-title="EU | CANAL+ LIVE  FRANCE",|FR| CANAL+ LIVE 2 HD
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/511528
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| CANAL+ LIVE 3 FHD" tvg-logo="https://logo-iptvpro.com/LOGO/CANAL+%20LIVE.webp" group-title="EU | CANAL+ LIVE  FRANCE",|FR| CANAL+ LIVE 3 FHD
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/511527
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| CANAL+ LIVE 3 HD" tvg-logo="https://logo-iptvpro.com/LOGO/CANAL+%20LIVE.webp" group-title="EU | CANAL+ LIVE  FRANCE",|FR| CANAL+ LIVE 3 HD
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/511526
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| CANAL+ LIVE 4 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-plus-live-4-fr.png" group-title="EU | CANAL+ LIVE  FRANCE",|FR| CANAL+ LIVE 4 FHD
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/511525
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| CANAL+ LIVE 4 HD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-plus-live-4-fr.png" group-title="EU | CANAL+ LIVE  FRANCE",|FR| CANAL+ LIVE 4 HD
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/511524
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| CANAL+ LIVE 5 FHD" tvg-logo="https://logo-iptvpro.com/LOGO/CANAL+%20LIVE.webp" group-title="EU | CANAL+ LIVE  FRANCE",|FR| CANAL+ LIVE 5 FHD
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/511523
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| CANAL+ LIVE 5 HD" tvg-logo="https://logo-iptvpro.com/LOGO/CANAL+%20LIVE.webp" group-title="EU | CANAL+ LIVE  FRANCE",|FR| CANAL+ LIVE 5 HD
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/511522
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| CANAL+ LIVE 6 FHD" tvg-logo="https://logo-iptvpro.com/LOGO/CANAL+%20LIVE.webp" group-title="EU | CANAL+ LIVE  FRANCE",|FR| CANAL+ LIVE 6 FHD
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/511521
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| CANAL+ LIVE 6 HD" tvg-logo="https://logo-iptvpro.com/LOGO/CANAL+%20LIVE.webp" group-title="EU | CANAL+ LIVE  FRANCE",|FR| CANAL+ LIVE 6 HD
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/511520
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| CANAL+ LIVE 7 FHD" tvg-logo="https://logo-iptvpro.com/LOGO/CANAL+%20LIVE.webp" group-title="EU | CANAL+ LIVE  FRANCE",|FR| CANAL+ LIVE 7 FHD
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/511519
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| CANAL+ LIVE 7 HD" tvg-logo="https://logo-iptvpro.com/LOGO/CANAL+%20LIVE.webp" group-title="EU | CANAL+ LIVE  FRANCE",|FR| CANAL+ LIVE 7 HD
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/511518
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| CANAL+ LIVE 8 FHD" tvg-logo="https://logo-iptvpro.com/LOGO/CANAL+%20LIVE.webp" group-title="EU | CANAL+ LIVE  FRANCE",|FR| CANAL+ LIVE 8 FHD
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/511517
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| CANAL+ LIVE 8 HD" tvg-logo="https://logo-iptvpro.com/LOGO/CANAL+%20LIVE.webp" group-title="EU | CANAL+ LIVE  FRANCE",|FR| CANAL+ LIVE 8 HD
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/511516
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| CANAL+ LIVE 9 FHD" tvg-logo="https://logo-iptvpro.com/LOGO/CANAL+%20LIVE.webp" group-title="EU | CANAL+ LIVE  FRANCE",|FR| CANAL+ LIVE 9 FHD
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/511515
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| CANAL+ LIVE 9 HD" tvg-logo="https://logo-iptvpro.com/LOGO/CANAL+%20LIVE.webp" group-title="EU | CANAL+ LIVE  FRANCE",|FR| CANAL+ LIVE 9 HD
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/511514
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| CANAL+ LIVE 10 FHD" tvg-logo="https://logo-iptvpro.com/LOGO/CANAL+%20LIVE.webp" group-title="EU | CANAL+ LIVE  FRANCE",|FR| CANAL+ LIVE 10 FHD
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/511513
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| CANAL+ LIVE 10 HD" tvg-logo="https://logo-iptvpro.com/LOGO/CANAL+%20LIVE.webp" group-title="EU | CANAL+ LIVE  FRANCE",|FR| CANAL+ LIVE 10 HD
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/511512
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| CANAL+ LIVE 11 FHD" tvg-logo="https://logo-iptvpro.com/LOGO/CANAL+%20LIVE.webp" group-title="EU | CANAL+ LIVE  FRANCE",|FR| CANAL+ LIVE 11 FHD
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/511511
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| CANAL+ LIVE 11 HD" tvg-logo="https://logo-iptvpro.com/LOGO/CANAL+%20LIVE.webp" group-title="EU | CANAL+ LIVE  FRANCE",|FR| CANAL+ LIVE 11 HD
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/511510
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| CANAL+ LIVE 12 FHD" tvg-logo="https://logo-iptvpro.com/LOGO/CANAL+%20LIVE.webp" group-title="EU | CANAL+ LIVE  FRANCE",|FR| CANAL+ LIVE 12 FHD
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/511509
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| CANAL+ LIVE 12 HD" tvg-logo="https://logo-iptvpro.com/LOGO/CANAL+%20LIVE.webp" group-title="EU | CANAL+ LIVE  FRANCE",|FR| CANAL+ LIVE 12 HD
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/511508
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| CANAL+ LIVE 13 FHD" tvg-logo="https://logo-iptvpro.com/LOGO/CANAL+%20LIVE.webp" group-title="EU | CANAL+ LIVE  FRANCE",|FR| CANAL+ LIVE 13 FHD
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/511507
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| CANAL+ LIVE 13 HD" tvg-logo="https://logo-iptvpro.com/LOGO/CANAL+%20LIVE.webp" group-title="EU | CANAL+ LIVE  FRANCE",|FR| CANAL+ LIVE 13 HD
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/511506
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| CANAL+ LIVE 14 FHD" tvg-logo="https://logo-iptvpro.com/LOGO/CANAL+%20LIVE.webp" group-title="EU | CANAL+ LIVE  FRANCE",|FR| CANAL+ LIVE 14 FHD
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/511505
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| CANAL+ LIVE 14 HD" tvg-logo="https://logo-iptvpro.com/LOGO/CANAL+%20LIVE.webp" group-title="EU | CANAL+ LIVE  FRANCE",|FR| CANAL+ LIVE 14 HD
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/511504
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| CANAL+ LIVE 15 FHD" tvg-logo="https://logo-iptvpro.com/LOGO/CANAL+%20LIVE.webp" group-title="EU | CANAL+ LIVE  FRANCE",|FR| CANAL+ LIVE 15 FHD
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/511503
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| CANAL+ LIVE 15 HD" tvg-logo="https://logo-iptvpro.com/LOGO/CANAL+%20LIVE.webp" group-title="EU | CANAL+ LIVE  FRANCE",|FR| CANAL+ LIVE 15 HD
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/511502
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| CANAL+ LIVE 16 FHD" tvg-logo="https://logo-iptvpro.com/LOGO/CANAL+%20LIVE.webp" group-title="EU | CANAL+ LIVE  FRANCE",|FR| CANAL+ LIVE 16 FHD
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/511501
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| CANAL+ LIVE 16 HD" tvg-logo="https://logo-iptvpro.com/LOGO/CANAL+%20LIVE.webp" group-title="EU | CANAL+ LIVE  FRANCE",|FR| CANAL+ LIVE 16 HD
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/511500
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| CANAL+ LIVE 17 FHD" tvg-logo="https://logo-iptvpro.com/LOGO/CANAL+%20LIVE.webp" group-title="EU | CANAL+ LIVE  FRANCE",|FR| CANAL+ LIVE 17 FHD
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/511499
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| CANAL+ LIVE 17 HD" tvg-logo="https://logo-iptvpro.com/LOGO/CANAL+%20LIVE.webp" group-title="EU | CANAL+ LIVE  FRANCE",|FR| CANAL+ LIVE 17 HD
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/511498
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| CANAL+ LIVE 18 FHD" tvg-logo="https://logo-iptvpro.com/LOGO/CANAL+%20LIVE.webp" group-title="EU | CANAL+ LIVE  FRANCE",|FR| CANAL+ LIVE 18 FHD
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/511497
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| CANAL+ LIVE 18" tvg-logo="https://logo-iptvpro.com/LOGO/CANAL+%20LIVE.webp" group-title="EU | CANAL+ LIVE  FRANCE",|FR| CANAL+ LIVE 18
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/511496
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| CANAL+ LIVE 19 FHD" tvg-logo="https://logo-iptvpro.com/LOGO/CANAL+%20LIVE.webp" group-title="EU | CANAL+ LIVE  FRANCE",|FR| CANAL+ LIVE 19 FHD
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/511495
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| CANAL+ LIVE 19 HD" tvg-logo="https://logo-iptvpro.com/LOGO/CANAL+%20LIVE.webp" group-title="EU | CANAL+ LIVE  FRANCE",|FR| CANAL+ LIVE 19 HD
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/511494
-#EXTINF:-1 tvg-ID="" tvg-name="|LUX| RTL LUXEMBURG" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtl-lu.png" group-title="EU | LUXEMBOURG",|LUX| RTL LUXEMBURG
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/10165
-#EXTINF:-1 tvg-ID="CINECLASSIC.BE" tvg-name="|LUX| ELDO TV" tvg-logo="https://appbackend.alteox.com/uploads/logo-channel-978b0170-8096-11e9-b5ca-f345a2ed0fbe-250x250.png" group-title="EU | LUXEMBOURG",|LUX| ELDO TV
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/43051
-#EXTINF:-1 tvg-ID="" tvg-name="|LUX| RTL ZWEE LUXEMBOURG" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/7c/RTL_Zwee_logo.png" group-title="EU | LUXEMBOURG",|LUX| RTL ZWEE LUXEMBOURG
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/447740
-#EXTINF:-1 tvg-ID="" tvg-name="|LUX| APART TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE0XWJsIBubDlMC9phLSWKXypn4PZ-8202Uw&s" group-title="EU | LUXEMBOURG",|LUX| APART TV
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/510103
-#EXTINF:-1 tvg-ID="" tvg-name="|LU| TV LUXE" tvg-logo="" group-title="EU | LUXEMBOURG",|LU| TV LUXE
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/464577
-#EXTINF:-1 tvg-ID="" tvg-name="|LU| PÃ©tange Info TV " tvg-logo="" group-title="EU | LUXEMBOURG",|LU| PÃ©tange Info TV 
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/510129
-#EXTINF:-1 tvg-ID="" tvg-name="|LU| MierschTV" tvg-logo="" group-title="EU | LUXEMBOURG",|LU| MierschTV
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/510128
-#EXTINF:-1 tvg-ID="" tvg-name="|LU| Mamer TV " tvg-logo="" group-title="EU | LUXEMBOURG",|LU| Mamer TV 
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/510127
-#EXTINF:-1 tvg-ID="" tvg-name="|LU| Hesper TV" tvg-logo="" group-title="EU | LUXEMBOURG",|LU| Hesper TV
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/510126
-#EXTINF:-1 tvg-ID="" tvg-name="|LU| Dudelange TV " tvg-logo="" group-title="EU | LUXEMBOURG",|LU| Dudelange TV 
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/510125
-#EXTINF:-1 tvg-ID="nrj12.fr" tvg-name="|FR| NRJ 12 SD" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nrj_fr_12.png" group-title="EU | FRANCE SD",|FR| NRJ 12 SD
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/23325
-#EXTINF:-1 tvg-ID="france3.fr" tvg-name="|FR| FRANCE 3 UHD" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2024/05/france-3-uhd-300x125.png.webp" group-title="EU | FRANCE UHD - 4K",|FR| FRANCE 3 UHD
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/508104
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| ULTRA NATURE UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/44/Ultra_Nature_%282016%29.svg/1200px-Ultra_Nature_%282016%29.svg.png" group-title="EU | FRANCE UHD - 4K",|FR| ULTRA NATURE UHD
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/508103
-#EXTINF:-1 tvg-ID="tf1.fr" tvg-name="|FR| TF1 UHD" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/04/tf1-4k-chaine-tv-125x55.png" group-title="",|FR| TF1 UHD
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/500314
-#EXTINF:-1 tvg-ID="tf1.fr" tvg-name="|FR| TF1 FHD" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/TF1.png" group-title="",|FR| TF1 FHD
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/500190
-#EXTINF:-1 tvg-ID="01tv.fr" tvg-name="|FR| TF1 HD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tf1.png" group-title="",|FR| TF1 HD
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/500312
-#EXTINF:-1 tvg-ID="tf1.fr" tvg-name="|FR| TF1 SD" tvg-logo="" group-title="",|FR| TF1 SD
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/500313
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| M6 4K" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/M6_new2020.png" group-title="",|FR| M6 4K
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/500315
-#EXTINF:-1 tvg-ID="" tvg-name="|BE| RTBF LA UNE FHD" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtbf_la_une.png" group-title="",|BE| RTBF LA UNE FHD
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/500340
-#EXTINF:-1 tvg-ID="" tvg-name="|BE| TIPIK FHD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tipik-tv-be.png" group-title="",|BE| TIPIK FHD
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/500339
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| SECRET STORY FRANCE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/ce/SecretStory2024.png" group-title="EU | FRANCE GENERAL",|FR| SECRET STORY FRANCE HD
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/493731
-#EXTINF:-1 tvg-ID="france2.fr" tvg-name="|FR| FRANCE 2 UHD" tvg-logo="" group-title="EU | FRANCE UHD - 4K",|FR| FRANCE 2 UHD
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/492167
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| DAZN EVENTS 1 HD (ONLY ON LIVE)" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-de.png" group-title="EU | DAZN EVENT FR",|FR| DAZN EVENTS 1 HD (ONLY ON LIVE)
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/479045
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| DAZN EVENTS 2 HD (ONLY ON LIVE)" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-de.png" group-title="EU | DAZN EVENT FR",|FR| DAZN EVENTS 2 HD (ONLY ON LIVE)
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/479044
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| DAZN EVENTS 3 HD (ONLY ON LIVE)" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-de.png" group-title="EU | DAZN EVENT FR",|FR| DAZN EVENTS 3 HD (ONLY ON LIVE)
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/479043
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| DAZN EVENTS 4 HD (ONLY ON LIVE)" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-de.png" group-title="EU | DAZN EVENT FR",|FR| DAZN EVENTS 4 HD (ONLY ON LIVE)
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/479042
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| DAZN EVENTS 5 HD (ONLY ON LIVE)" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-de.png" group-title="EU | DAZN EVENT FR",|FR| DAZN EVENTS 5 HD (ONLY ON LIVE)
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/479041
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| DAZN EVENTS 6 HD (ONLY ON LIVE)" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-de.png" group-title="EU | DAZN EVENT FR",|FR| DAZN EVENTS 6 HD (ONLY ON LIVE)
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/479040
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| DAZN EVENTS 7 HD (ONLY ON LIVE)" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-de.png" group-title="EU | DAZN EVENT FR",|FR| DAZN EVENTS 7 HD (ONLY ON LIVE)
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/479039
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| DAZN EVENTS 8 HD (ONLY ON LIVE)" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-de.png" group-title="EU | DAZN EVENT FR",|FR| DAZN EVENTS 8 HD (ONLY ON LIVE)
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/479038
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| DAZN EVENTS 9 HD (ONLY ON LIVE)" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-de.png" group-title="EU | DAZN EVENT FR",|FR| DAZN EVENTS 9 HD (ONLY ON LIVE)
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/479037
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| DAZN EVENTS 10 HD (ONLY ON LIVE)" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-de.png" group-title="EU | DAZN EVENT FR",|FR| DAZN EVENTS 10 HD (ONLY ON LIVE)
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/479036
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| DREAMWORKS HD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dreamworks-tv-us.svg" group-title="EU | FRANCE DESSIN ANIME",|FR| DREAMWORKS HD
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/477010
-#EXTINF:-1 tvg-ID="gameone.fr" tvg-name="|FR| GAME ONE SD" tvg-logo="https://www.lyngsat.com/logo/tv/gg/game_one.png" group-title="EU | FRANCE DESSIN ANIME",|FR| GAME ONE SD
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/459171
-#EXTINF:-1 tvg-ID="myzen.fr" tvg-name="|FR| MYZEN TV" tvg-logo="" group-title="EU | FRANCE SD",|FR| MYZEN TV
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/459170
-#EXTINF:-1 tvg-ID="traceurban.fr" tvg-name="|FR| TRACE URBAN SD" tvg-logo="" group-title="EU | FRANCE SD",|FR| TRACE URBAN SD
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/459165
-#EXTINF:-1 tvg-ID="" tvg-name="|MLS| EVENT 1 FHD - (LIVE ONLY)" tvg-logo="" group-title="US | MLS",|MLS| EVENT 1 FHD - (LIVE ONLY)
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/455611
-#EXTINF:-1 tvg-ID="" tvg-name="|MLS| EVENT 2 FHD - (LIVE ONLY)" tvg-logo="" group-title="US | MLS",|MLS| EVENT 2 FHD - (LIVE ONLY)
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/455610
-#EXTINF:-1 tvg-ID="" tvg-name="|MLS| EVENT 3 FHD - (LIVE ONLY)" tvg-logo="" group-title="US | MLS",|MLS| EVENT 3 FHD - (LIVE ONLY)
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/455609
-#EXTINF:-1 tvg-ID="" tvg-name="|MLS| EVENT 4 FHD - (LIVE ONLY)" tvg-logo="" group-title="US | MLS",|MLS| EVENT 4 FHD - (LIVE ONLY)
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/455608
-#EXTINF:-1 tvg-ID="" tvg-name="|MLS| EVENT 5 FHD - (LIVE ONLY)" tvg-logo="" group-title="US | MLS",|MLS| EVENT 5 FHD - (LIVE ONLY)
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/455607
-#EXTINF:-1 tvg-ID="" tvg-name="|MLS| EVENT 6 FHD - (LIVE ONLY)" tvg-logo="" group-title="US | MLS",|MLS| EVENT 6 FHD - (LIVE ONLY)
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/455606
-#EXTINF:-1 tvg-ID="" tvg-name="|MLS| EVENT 7 FHD - (LIVE ONLY)" tvg-logo="" group-title="US | MLS",|MLS| EVENT 7 FHD - (LIVE ONLY)
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/455605
-#EXTINF:-1 tvg-ID="" tvg-name="|MLS| EVENT 8 FHD - (LIVE ONLY)" tvg-logo="" group-title="US | MLS",|MLS| EVENT 8 FHD - (LIVE ONLY)
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/455604
-#EXTINF:-1 tvg-ID="" tvg-name="|MLS| EVENT 9 FHD - (LIVE ONLY)" tvg-logo="" group-title="US | MLS",|MLS| EVENT 9 FHD - (LIVE ONLY)
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/455603
-#EXTINF:-1 tvg-ID="" tvg-name="|MLS| EVENT 10 FHD - (LIVE ONLY)" tvg-logo="" group-title="US | MLS",|MLS| EVENT 10 FHD - (LIVE ONLY)
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/455602
-#EXTINF:-1 tvg-ID="" tvg-name="|MLS| EVENT 11 FHD - (LIVE ONLY)" tvg-logo="" group-title="US | MLS",|MLS| EVENT 11 FHD - (LIVE ONLY)
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/455601
-#EXTINF:-1 tvg-ID="" tvg-name="|MLS| EVENT 12 FHD - (LIVE ONLY)" tvg-logo="" group-title="US | MLS",|MLS| EVENT 12 FHD - (LIVE ONLY)
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/455600
-#EXTINF:-1 tvg-ID="" tvg-name="|MLS| EVENT 13 FHD - (LIVE ONLY)" tvg-logo="" group-title="US | MLS",|MLS| EVENT 13 FHD - (LIVE ONLY)
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/455599
-#EXTINF:-1 tvg-ID="" tvg-name="|MLS| EVENT 14 FHD - (LIVE ONLY)" tvg-logo="" group-title="US | MLS",|MLS| EVENT 14 FHD - (LIVE ONLY)
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/455598
-#EXTINF:-1 tvg-ID="" tvg-name="|MLS| EVENT 15 FHD - (LIVE ONLY)" tvg-logo="" group-title="US | MLS",|MLS| EVENT 15 FHD - (LIVE ONLY)
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/455597
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO  Y'A QUE LA VERITE QUI COMPTE" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO  Y'A QUE LA VERITE QUI COMPTE
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/344566
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO  WINX CLUB" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO  WINX CLUB
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/344565
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO  WILD SIDE TV" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO  WILD SIDE TV
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/344564
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO  WALKER TEXAS RANGER" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO  WALKER TEXAS RANGER
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/344563
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO  UNE FILLE" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO  UNE FILLE
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/344562
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO  TETU TV" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO  TETU TV
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/344561
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO  THE ASYLUM" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO  THE ASYLUM
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/344560
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO  Daria" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO  Daria
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/344559
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO  TEEN MOM" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO  TEEN MOM
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/344558
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO STARSKY & HUTCH" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO STARSKY & HUTCH
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/344556
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO  SOUTH PARK" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO  SOUTH PARK
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/344555
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO STORY" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO STORY
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/344554
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO PREMIERS BAISERS" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO PREMIERS BAISERS
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/344552
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO YOGA" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO YOGA
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/344551
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO VOYAGE" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO VOYAGE
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/344550
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO THRILLERS" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO THRILLERS
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/344549
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO SERIES FANTASTIQUES" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO SERIES FANTASTIQUES
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/344548
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO SPORTS" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO SPORTS
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/344547
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO SERIES" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO SERIES
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/344545
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO Sci-Fi" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO Sci-Fi
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/344544
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO ROMANCE" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO ROMANCE
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/344543
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO RETRO TOONS" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO RETRO TOONS
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/344542
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO REALITY" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO REALITY
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/344541
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO POLAR" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO POLAR
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/344540
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO MOTOR" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO MOTOR
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/344539
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO LOVE SONGS" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO LOVE SONGS
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/344538
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO  K-POP" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO  K-POP
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/344537
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO HISTOIRE" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO HISTOIRE
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/344536
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO FRENCH COLLECTION" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO FRENCH COLLECTION
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/344535
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO CLASSIC HIP-HOP" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO CLASSIC HIP-HOP
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/344533
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO ANIMAUX" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO ANIMAUX
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/344532
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO  PEOPLE ARE AWESOME" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO  PEOPLE ARE AWESOME
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/344531
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO  NICKELOADEON UKRAINE" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO  NICKELOADEON UKRAINE
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/344530
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO NATURE TIME" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO NATURE TIME
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/344529
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO  MOTORVISION TV" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO  MOTORVISION TV
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/344528
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO  Plus Belle la Vie SEAON 3&4" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO  Plus Belle la Vie SEAON 3&4
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/344527
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO MELROSE PLACE" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO MELROSE PLACE
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/344526
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO  MASTERCHEF" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO  MASTERCHEF
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/344525
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO MACGYVER" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO MACGYVER
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/344524
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO LES  RAZMOKET" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO LES  RAZMOKET
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/344523
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO  LES FILEES D'A COTE" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO  LES FILEES D'A COTE
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/344522
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO LES ANNEES FAC" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO LES ANNEES FAC
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/344521
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO  LE MIRACLE DE L'AMOUR" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO  LE MIRACLE DE L'AMOUR
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/344520
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO  LE MIEL ET LES ABEILLES" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO  LE MIEL ET LES ABEILLES
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/344519
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO LA SERIE ANIMEE" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO LA SERIE ANIMEE
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/344518
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO JUSTE POUR RIRE" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO JUSTE POUR RIRE
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/344517
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO INSTANT SAGA" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO INSTANT SAGA
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/344516
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO INAZUMA ELEVEN" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO INAZUMA ELEVEN
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/344515
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO  HELENES ET LES GARCONS" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO  HELENES ET LES GARCONS
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/344514
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO GENERATION SITCOMS" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO GENERATION SITCOMS
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/344513
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO GLOIRE ET BEAUTE" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO GLOIRE ET BEAUTE
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/344512
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO  Ultimate Classic Wrestling" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO  Ultimate Classic Wrestling
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/344511
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO AdjugÃ© vendu !" tvg-logo="" group-title="EU | FRANCE PLUTO",|FR| PLUTO AdjugÃ© vendu !
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/344510
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO DOCTOR WHO" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO DOCTOR WHO
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/344509
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO DIGIMON ADVENTURE" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO DIGIMON ADVENTURE
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/344508
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| Faites entrer l'accusÃ©" tvg-logo="https://images.pluto.tv/channels/662a622b5e2370000800f392/colorLogoPNG.png" group-title="EU | FRANCE PLUTO",|FR| Faites entrer l'accusÃ©
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/344507
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO DETECTIVE CONAN" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO DETECTIVE CONAN
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/344506
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO DEGRASSI" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO DEGRASSI
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/344505
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO  CRIBS : MAISONS DE STAR" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO  CRIBS : MAISONS DE STAR
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/344504
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO COEUR OCEAN" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO COEUR OCEAN
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/344503
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO  CLUBBING TV" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO  CLUBBING TV
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/344502
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO Un Village FranÃ§ais" tvg-logo="https://images.pluto.tv/channels/6304f2e2eb10450007298023/colorLogoPNG.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO Un Village FranÃ§ais
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/344501
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO CHERIF" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO CHERIF
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/344500
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO Car Chase" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO Car Chase
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/344499
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO CHARLOTTE AUX FRAISES" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO CHARLOTTE AUX FRAISES
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/344498
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO BUBBLE GUPPIES" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO BUBBLE GUPPIES
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/344497
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO AVATAR" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO AVATAR
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/344496
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO ARE YOU THE ONE ?" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO ARE YOU THE ONE ?
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/344495
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO ANGELA ANACONDA" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO ANGELA ANACONDA
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/344494
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO ALERTE A MALIBU" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO ALERTE A MALIBU
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/344493
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO ALERT COBRA" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO ALERT COBRA
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/344492
-#EXTINF:-1 tvg-ID="tf1.fr" tvg-name="|FR| TF1 FHD" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/TF1.png" group-title="EU | FRANCE GENERAL",|FR| TF1 FHD
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/9561
-#EXTINF:-1 tvg-ID="tf1.fr" tvg-name="|FR| TF1 HD" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/TF1.png" group-title="EU | FRANCE GENERAL",|FR| TF1 HD
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/156
-#EXTINF:-1 tvg-ID="france2.fr" tvg-name="|FR| FRANCE 2 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ff/france2-fr.png" group-title="EU | FRANCE GENERAL",|FR| FRANCE 2 FHD
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/1502
-#EXTINF:-1 tvg-ID="france2.fr" tvg-name="|FR| FRANCE 2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/ff/france2-fr.png" group-title="EU | FRANCE GENERAL",|FR| FRANCE 2 HD
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/160
-#EXTINF:-1 tvg-ID="m6.fr" tvg-name="|FR| M6 FHD" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/M6_new2020.png" group-title="EU | FRANCE GENERAL",|FR| M6 FHD
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/9562
-#EXTINF:-1 tvg-ID="m6.fr" tvg-name="|FR| M6 HD" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/M6_new2020.png" group-title="EU | FRANCE GENERAL",|FR| M6 HD
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/235
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO CLASSIC TV" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO CLASSIC TV
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/122488
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO CATFISH TV" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO CATFISH TV
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/122487
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO TEEN SERIES" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO TEEN SERIES
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/122485
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO TROLL TV" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO TROLL TV
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/122484
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO COMÃ‰DIE" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO COMÃ‰DIE
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/122483
-#EXTINF:-1 tvg-ID="" tvg-name="| FR-SKWEEK |  LIVE 1 FHD (ONLY ON EVENT )" tvg-logo="https://pbs.twimg.com/media/FdrFi5lXkAA5JHd?format=png&name=small" group-title="EU | SKWEEK BASKET",| FR-SKWEEK |  LIVE 1 FHD (ONLY ON EVENT )
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/258560
-#EXTINF:-1 tvg-ID="" tvg-name="| FR-SKWEEK |  LIVE 2 FHD (ONLY ON EVENT )" tvg-logo="https://pbs.twimg.com/media/FdrFi5lXkAA5JHd?format=png&name=small" group-title="EU | SKWEEK BASKET",| FR-SKWEEK |  LIVE 2 FHD (ONLY ON EVENT )
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/258561
-#EXTINF:-1 tvg-ID="" tvg-name="| FR-SKWEEK | LIVE 3 FHD (ONLY ON EVENT )" tvg-logo="https://pbs.twimg.com/media/FdrFi5lXkAA5JHd?format=png&name=small" group-title="EU | SKWEEK BASKET",| FR-SKWEEK | LIVE 3 FHD (ONLY ON EVENT )
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/258562
-#EXTINF:-1 tvg-ID="" tvg-name="| FR-SKWEEK | LIVE 4 FHD (ONLY ON EVENT )" tvg-logo="https://pbs.twimg.com/media/FdrFi5lXkAA5JHd?format=png&name=small" group-title="EU | SKWEEK BASKET",| FR-SKWEEK | LIVE 4 FHD (ONLY ON EVENT )
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/258563
-#EXTINF:-1 tvg-ID="" tvg-name="| FR-SKWEEK | LIVE 5 FHD (ONLY ON EVENT )" tvg-logo="https://pbs.twimg.com/media/FdrFi5lXkAA5JHd?format=png&name=small" group-title="EU | SKWEEK BASKET",| FR-SKWEEK | LIVE 5 FHD (ONLY ON EVENT )
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/258564
-#EXTINF:-1 tvg-ID="" tvg-name="| FR-SKWEEK | LIVE 6 FHD (ONLY ON EVENT )" tvg-logo="https://pbs.twimg.com/media/FdrFi5lXkAA5JHd?format=png&name=small" group-title="EU | SKWEEK BASKET",| FR-SKWEEK | LIVE 6 FHD (ONLY ON EVENT )
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/258565
-#EXTINF:-1 tvg-ID="" tvg-name="| FR-SKWEEK | LIVE 7 FHD (ONLY ON EVENT )" tvg-logo="https://pbs.twimg.com/media/FdrFi5lXkAA5JHd?format=png&name=small" group-title="EU | SKWEEK BASKET",| FR-SKWEEK | LIVE 7 FHD (ONLY ON EVENT )
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/258566
-#EXTINF:-1 tvg-ID="" tvg-name="| FR-SKWEEK | LIVE 8 FHD (ONLY ON EVENT )" tvg-logo="https://pbs.twimg.com/media/FdrFi5lXkAA5JHd?format=png&name=small" group-title="EU | SKWEEK BASKET",| FR-SKWEEK | LIVE 8 FHD (ONLY ON EVENT )
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/258567
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO KIDS SÃ‰RIES" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO KIDS SÃ‰RIES
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/122482
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO KIDS ANIMATION" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO KIDS ANIMATION
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/122481
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO JUNIOR" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO JUNIOR
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/122480
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO DORA TV" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO DORA TV
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/122479
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO TORTUES NINJA TV" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO TORTUES NINJA TV
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/122478
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO ICARLY TV" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO ICARLY TV
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/122477
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO GAMING TV" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO GAMING TV
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/122476
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO THE PET COLLECTIVE" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO THE PET COLLECTIVE
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/122475
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO FAILARMY" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO FAILARMY
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/122474
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO WPT" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO WPT
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/122472
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO CINÃ‰" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO CINÃ‰
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/122470
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO CINÃ‰ RÃ‰TRO" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO CINÃ‰ RÃ‰TRO
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/122469
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO ACTION" tvg-logo="https://images.pluto.tv/channels/5f8ed1ff5c39700007e2204a/colorLogoPNG.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO ACTION
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/122468
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO DRAMA" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO DRAMA
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/122467
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO EXTRÃŠME" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO EXTRÃŠME
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/122466
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO INSIDE" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO INSIDE
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/122465
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO CUISINE" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO CUISINE
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/122464
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO CRIME" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO CRIME
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/122463
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO Beyblade" tvg-logo="https://images.pluto.tv/channels/664c8ba33d173b00080ef0c8/colorLogoPNG.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO Beyblade
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/122459
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO LOUIS LA BROCANTE" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO LOUIS LA BROCANTE
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/122458
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO LES CORDIER" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO LES CORDIER
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/122457
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO PARANORMAL" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO PARANORMAL
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/122456
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO DOSSIERS FBI" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO DOSSIERS FBI
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/122455
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO LES NOUVEAUX DETECTIVES" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO LES NOUVEAUX DETECTIVES
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/122454
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO INVESTIGATION" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO INVESTIGATION
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/122453
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO TELENOVELA" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO TELENOVELA
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/122452
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO MTV CLASSICS" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO MTV CLASSICS
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/122451
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO BET CLASSICS" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO BET CLASSICS
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/122450
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO ICARLY+" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO ICARLY+
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/122444
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO BOB L'Ã‰PONGE" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO BOB L'Ã‰PONGE
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/122443
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| PLUTO CRIME+" tvg-logo="https://mk0esagegroupcoeul03.kinstacdn.com/wp-content/uploads/2020/11/pluto-tv-logo.png" group-title="EU | FRANCE PLUTO",|FR| PLUTO CRIME+
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/122441
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| TF1 +4" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tf1_suisse.png" group-title="EU | FRANCE GENERAL",|FR| TF1 +4
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/58067
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| FRANCE 2 +4" tvg-logo="https://www.lyngsat.com/logo/tv/ff/france2-fr.png" group-title="EU | FRANCE GENERAL",|FR| FRANCE 2 +4
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/58064
-#EXTINF:-1 tvg-ID="france3.fr" tvg-name="|FR| FRANCE 3 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ff/france3-fr.png" group-title="EU | FRANCE GENERAL",|FR| FRANCE 3 FHD
-http://iptvpro.premium4k.org:2052/PAB9946/PAB6628/613
+
+#EXTINF:-1, [COLOR yellow]Updated 30/03/15 @ 23:14 [/COLOR]  
+plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
+#EXTINF:-1, [COLOR green] --Arabic Live Tv--[/COLOR]  
+plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
+#EXTINF:-1, [COLOR red] --Links will go down. Please note that it will take time to update--[/COLOR]
+plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
+#EXTINF:-1, [COLOR red] --Please contact me at the husham.com website--[/COLOR]
+plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
+#EXTINF:-1, [COLOR yellow]Please donate to husham.com for more content[/COLOR]
+http://www.youtube.com/user/hmemar22
+
+#EXTINF:-1,Bein sport french
+http://65.111.174.111:1935/iptv/beinsports1.stream/playlist.m3u8
+#EXTINF:-1,Bein 1 HD France
+rtmpe://46.246.124.78:1935/live/bein11hd pageUrl=http://xxxxxx.xxx/rtmpe://46.246.124.26:1935/redirect/espn?se23455vxanbfjhkkiytsasgfd/pageUrl=http://hdcast.org/rtmp://173.192.81.176:443/liverepeater/stream/token=%ZZri(nKa@#Z/pageUrl=http://flashtv.co/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNB/hdcast.org/SECUREtoke#$%@pageUrlhttphdcast.org token=SECURET0KEN#yw%.?()@W! playpath=bein1frlsh?live7hd?bein2frlsh?hopman?live7hd?vch1lsh?btsports2lsh?bein1frlsh?csportlsh pageUrl=http://cdn.lshstream.com/hdcast.org/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/rtmp://77.81.98.134/tv/bt1h28qn?v=pageUrl=http://castok.com/rtmp://89.46.102.70:443/liveedge/bt1pageUrl=http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1pageUrl=http;//finecast.tv/rtmpe://cdn.hdcast.org:1935/redirect/swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrl=http://www.hdcast.org/token=Fo5_n0w?U.rA6l3-70w47ch@#8x1
+#EXTINF:-1,beIN HD1 France
+rtmpe://46.246.124.50:1935/live/canal pageUrl=http://xxxxxx.xxx/rtmpe://46.246.124.26:1935/redirect/espn?se23455vxanbfjhkkiytsasgfd/pageUrl=http://hdcast.org/rtmp://173.192.81.176:443/liverepeater/stream/token=%ZZri(nKa@#Z/pageUrl=http://flashtv.co/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNB/hdcast.org/SECUREtoke#$%@pageUrlhttphdcast.org token=SECURET0KEN#yw%.?()@W! playpath=bein1frlsh?csportlsh pageUrl=http://cdn.lshstream.com/hdcast.org/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/rtmp://77.81.98.134/tv/bt1h28qn?v=pageUrl=http://castok.com/rtmp://89.46.102.70:443/liveedge/bt1pageUrl=http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1pageUrl=http;//finecast.tv/rtmpe://cdn.hdcast.org:1935/redirect/swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrl=http://www.hdcast.org/token=Fo5_n0w?U.rA6l3-70w47ch@#8x12pX@
+#EXTINF:-1,Bein 2 HD  France 
+rtmpe://46.246.124.93:1935/l/btsport0 pageUrl=http://xxxxxxxxxxxxx.xx/rtmpe://strm.dcast.tv:1935/live/asdfadfaa/pageUrl=http://xxxxx.xx/rtmp://80.82.64.90:443/liverepeater/79/pageUrl=http://filotv.pw/rtmpe://strm.ukcast.tv:1935/redirect/FUNKTSN/pageUrl=http://ukcast.tv/rtmp://173.192.81.176:443/liverepeater/stream1/token%ZZri(nKa@#Z/pageUrl=http://hdcast.org/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNBC token=Fo5_n0w?U.rA6l3-70w47 playpath=wspch2t?llive2?pageUrlhttp pageUrl=http://hdcast.org/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/rtmp://77.81.98.134/tv/bt1h28qn?rtmp://89.46.102.70:443/liveedge/bt1pageUrl=http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1pageUrl=http;//finecast.tv/rtmpe://cdn.hdcast.org:1935/redirect/swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrl=http://www.hdcast.org/token=Fo5_n0w#yw%tt#w@kku
+#EXTINF:-1,beIN HD2 France
+rtmpe://46.246.124.50:1935/live/canal pageUrl=http://xxxxxx.xxx/rtmpe://46.246.124.26:1935/redirect/espn?se23455vxanbfjhkkiytsasgfd/pageUrl=http://hdcast.org/rtmp://173.192.81.176:443/liverepeater/stream/token=%ZZri(nKa@#Z/pageUrl=http://flashtv.co/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNB/hdcast.org/SECUREtoke#$%@pageUrlhttphdcast.org token=SECURET0KEN#yw%.?()@W! playpath=bein2frlsh?espnuklsh?csportlsh?bein1frlsh?csportlsh pageUrl=http://cdn.lshstream.com/hdcast.org/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/rtmp://77.81.98.134/tv/bt1h28qn?v=pageUrl=http://castok.com/rtmp://89.46.102.70:443/liveedge/bt1pageUrl=http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1pageUrl=http;//finecast.tv/rtmpe://cdn.hdcast.org:1935/redirect/swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrl=http://www.hdcast.org/token=Fo5_n0w?U.rA6l3-70w47ch@#8x12pX@
+#EXTINF:-1,French tv sport
+rtmpe://46.246.124.93:1935/l/btsport0 pageUrl=http://xxxxxxxxxxxxx.xx/rtmpe://strm.dcast.tv:1935/live/asdfadfaa/pageUrl=http://xxxxx.xx/rtmp://80.82.64.90:443/liverepeater/79/pageUrl=http://filotv.pw/rtmpe://strm.ukcast.tv:1935/redirect/FUNKTSN/pageUrl=http://ukcast.tv/rtmp://173.192.81.176:443/liverepeater/stream1/token%ZZri(nKa@#Z/pageUrl=http://hdcast.org/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNBC token=Fo5_n0w?U.rA6l3-70w47 playpath=wspch1t?llive2?pageUrlhttp pageUrl=http://hdcast.org/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/rtmp://77.81.98.134/tv/bt1h28qn?rtmp://89.46.102.70:443/liveedge/bt1pageUrl=http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1pageUrl=http;//finecast.tv/rtmpe://cdn.hdcast.org:1935/redirect/swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrl=http://www.hdcast.org/token=Fo5_n0w#yw%tt#w@kku
+#EXTINF:-1,CANAL + (2)  Sport + France
+rtmpe://46.246.124.93:1935/l/btsport0 pageUrl=http://xxxxxxxxxxxxx.xx/rtmpe://strm.dcast.tv:1935/live/asdfadfaa/pageUrl=http://xxxxx.xx/rtmp://80.82.64.90:443/liverepeater/79/pageUrl=http://filotv.pw/rtmpe://strm.ukcast.tv:1935/redirect/FUNKTSN/pageUrl=http://ukcast.tv/rtmp://173.192.81.176:443/liverepeater/stream1/token%ZZri(nKa@#Z/pageUrl=http://hdcast.org/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNBC token=Fo5_n0w?U.rA6l3-70w47 playpath=llive1?wspch1t?llive2?pageUrlhttp pageUrl=http://hdcast.org/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/rtmp://77.81.98.134/tv/bt1h28qn?rtmp://89.46.102.70:443/liveedge/bt1pageUrl=http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1pageUrl=http;//finecast.tv/rtmpe://cdn.hdcast.org:1935/redirect/swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrl=http://www.hdcast.org/token=Fo5_n0w#yw%tt#w@kku
+#EXTINF:-1,Eurosport France
+http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8 
+#EXTINF:-1,L'EQUIPE TV SPORT
+http://94.23.33.220:8280/5687/02.m3u8
+#EXTINF:-1,TVA SPORTS - CANADA / FRANCE
+rtmp://cp39414.live.edgefcs.net/live/event1@9756
+#EXTINF:-1,RDS 2
+http://ams-lp10.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/RDS2Open8.m3u8
+#EXTINF:-1,RDS  25
+http://ams-lp9.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/RDSOpen8.m3u8
+#EXTINF:-1,Tele MB
+rtmp://vm109.imust.org:1935/live/telemb-live
+#EXTINF:-1,Arte (German/French Tv)
+http://frlive.artestras.cshls.lldns.net/artestras/contrib/frlive/frlive_925.m3u8
+#EXTINF:-1,AFRICABOX
+http://chkg.tdf-cdn.com/8038/index.m3u8
+#EXTINF:-1,CANAL + (3)  France
+rtmpe://46.246.124.5/live/nbasss9 pageUrl=http://xxxxxx.xx/rtmpe://46.246.124.26:1935/redirect/espn?se23455vxanbfjhkkiytsasgfd/pageUrl=http://hdcast.org/rtmp://173.192.81.176:443/liverepeater/stream/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNBC playpath=top7?pul3?sdsd111111?pageUrlhttp//castv.tv pageUrl=http://www.cndhlsstream.pw/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/rtmp://77.81.98.134/tv/bt1h28qn?v=pageUrl=http://castok.com/rtmp://89.46.102.70:443/liveedge/bt1pageUrl=http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1pageUrl=http;//finecast.tv/rtmpe://cdn.hdcast.org:1935/redirect/http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrlhttp://www.hdcast.org/token=Fo5_n0w?U.rA6l3-70w47ch@#8x12pX@/token=%ZZri(nKa@#Z
+#EXTINF:-1,Direct 8  HD☆☆ Live
+http://stream.streaming-hub.com:8180/live/hls/d8-clair-v3-sd-and/and-sd-clair/d8-clair-v3-sd-audio_AACL_fra_56000_121=56000-video=1500000.m3u8
+#EXTINF:-1,D17 TV
+http://stream.streaming-hub.com:8180/live/hls/d17-clair-v3-sd-and/and-sd-clair/d17-clair-v3-sd-audio_AACL_fra_56000_121=56000-video=1500000.m3u8
+#EXTINF:-1,Euronews
+http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_fr.m3u8
+#EXTINF:-1,eurosport france
+http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8 
+#EXTINF:-1,ESPACE TV
+http://41.219.187.10:3000/8
+
+
+
+
+#EXTINF:-1,France 2  Live
+http://fast-fortress-4864.herokuapp.com/stream.streaming-hub.com:8080/simulcast/France_2/hls_v1/France_2-audio_AACL_fra_70000_315=70000-video=1404000.m3u8
+#EXTINF:-1,France 3
+http://fast-fortress-4864.herokuapp.com/94.23.33.220:8080/simulcast/France_3/hls_v1/France_3-audio_AACL_fra_70000_325=70000-video=1404000.m3u8
+#EXTINF:-1,France 4
+http://fast-fortress-4864.herokuapp.com/94.23.33.220:8080/simulcast/France_4/hls_v1/France_4-audio_AACL_fra_70000_335=70000-video=1404000.m3u8
+#EXTINF:-1,France 5
+http://fast-fortress-4864.herokuapp.com/94.23.33.220:8080/simulcast/France_5/hls_v1/France_5-audio_AACL_fra_70000_345=70000-video=1404000.m3u8
+#EXTINF:-1,France O
+http://fast-fortress-4864.herokuapp.com/stream.streaming-hub.com:8080/simulcast/France_O/hls_v1/France_O-audio_AACL_fra_70000_355=70000-video=1404000.m3u8
+
+#EXTINF:-1,France 24
+http://tv.flux.france24.com/4684/02.m3u8
+#EXTINF:-1,France 24 live 1
+rtmp://myafricanmega4.tulix.tv:1935/map-france24/map-france24roku.stream
+#EXTINF:-1,France 24 HD
+http://vipwowza.yacast.net/f24_hlslive_fr/_definst_/mp4:fr24_fr_748/playlist.m3u8?wowzasessionid=1911926519
+#EXTINF:-1,France 24 arabic
+http://vipwowza.yacast.net/f24_hlslive_ar/smil:android.fr24ar.smil/gmswf.m3u8
+#EXTINF:-1,i24news french
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_french/412/master.m3u8
+#EXTINF:-1,itele tv
+http://hls-live-m2-l3.canal-plus.com/live/hls/itele-clair-v3-sd-andr7/and-sd-clair/index.m3u8
+#EXTINF:-1,LCN NEWS
+rtmp://cp39414.live.edgefcs.net/live/lcn2@9754
+#EXTINF:-1,N23
+http://stream-05.vty.dmcdn.net/08/dm/1/x13p3qi/live.isml/events(live-1424336573)/live-audio=64000-video=400000.m3u8
+#EXTINF:-1,MANGAS CARTOON France
+rtmp://rtmp.infomaniak.ch/livecast/tvm3
+#EXTINF:-1,RTI 1
+rtmpe://srv55.streaming-ingenierie.fr:2035/live/abidjantv228.sdp
+#EXTINF:-1,RTL
+http://wowza02.newmedia.lu/channel1/live/playlist.m3u8
+#EXTINF:-1,RTL
+rtmp://cp132832.live.edgefcs.net/live/BEL@61204
+
+#EXTINF:-1,Tmc
+http://200.76.77.237/LIVE/H01/CANAL496/PROFILE03.m3u8?
+
+#EXTINF:-1,TELE CONGO
+rtsp://myafricanmega.tulix.tv:1935/map-telecongo/mp4:map-telecongo.stream
+#EXTINF:-1,TF1  france
+http://medias.streaming-hub.com:8090/hls/tf1.m3u8
+#EXTINF:-1,TV5 MONDE 
+http://uneapple-i.akamaihd.net/hls/live/206412/grupoune_st11@206412/st11_index.m3u8
+#EXTINF:-1,VOX AFRICA
+rtmp://208.75.224.165:1935/map-voxafrica/myStream.sdp
+#EXTINF:-1,OL Olympique Lyonnais  tv
+rtmp://cp47203.live.edgefcs.net:1935/live/OL-live-sc@5107
+#EXTINF:-1,ORTM
+rtsp://myafricanmega.tulix.tv:1935/map-ortmroku/mp4:map-ortmroku.stream
+#EXTINF:-1,RTS1
+http://162.212.176.83:8080/map-africableroku.stream.m3u8
+#EXTINF:-1,TV5 MONDE EUROPE
+http://uneapple-i.akamaihd.net/hls/live/206412/grupoune_st11@206412/st11_index.m3u8
+#EXTINF:-1,RTBF.be
+rtmp://rtmp.rtbf.be:1935/livecast/stream7 swfUrl=http://static.infomaniak.ch/livetv/playerMain-v4.2.65.swf?sTitle=&bLd=0&sVersion=4%2E2%2E65&sDescription= pageUrl=http://www.rtbf.be/livecenter/live_purevision?id=19480
+#EXTINF:-1,MONACO INFO
+rtmp://46.105.34.238:1935/livepkgr/livestream2
+#EXTINF:-1,ENCYCLO
+rtmp://87.248.160.8:80/edge/mp4:encyclo.stream_720p?.mp4
+#EXTINF:-1,IQRA ISLAM CHANNEL France
+rtmp://fl1.viastreaming.net:1935/iqraatv3/livestream swfUrl=http://iqraa.com/scripts/jwplayer/jwplayer.flash.swf pageUrl=http://iqraa.com/Livestream/Livestream/africa?lng=en
+#EXTINF:-1,GABON TV
+rtmp://myafricanmega.tulix.tv:1935/map-gabon/map-gabontv.stream
+#EXTINF:-1,LCP  france
+http://chkg.tdf-cdn.com/8413/index.m3u8
+#EXTINF:-1,RDS
+http://ams-lp11.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/RDSiOpen8.m3u8
+#EXTINF:-1,Wéo tv
+rtmp://str81.creacast.com:1935/weo/high swfUrl=http://player.longtailvideo.com/player.swf pageUrl=http://tv.webactu-webtv.com/francelocal3/weotv.html
+#EXTINF:-1,Rouge
+rtmp://rtmp.infomaniak.ch/livecast/rougetv
+#EXTINF:-1,W9  france
+http://109.87.253.58:8888/udp/238.0.16.68:1234
+#EXTINF:-1,BFM TV
+http://bfmlive2-i.akamaihd.net/hls/live/214427/bfmtv/03.m3u8
+#EXTINF:-1,RTI2
+rtmp://myafricanmega.tulix.tv:1935/map-rti2/map-rti2.stream
+#EXTINF:-1,RMC DECOUVERTE
+rtmp://vipwowza.yacast.net:1935/rmc_decouverte_rtmp/live/manifest.f4m/rmc_decouverte_rtmp/live/rmchdmse
+#EXTINF:-1,RADIO AFRICA NO1 French  sport
+http://african1paris.ice.infomaniak.ch/african1paris-64.mp3?rtmp://tv.muntumedia.com:1935/live/mp4:RTGA.mp4/pageUrl=http://www.muntumedia.com/docast.smbest
+#EXTINF:-1,RFI MONDE
+http://mp3.live.tv-radio.com/rfimonde/all/rfimonde-64k.mp3
+#EXTINF:-1,RADIO EUROPE
+http://mp3lg4.tdf-cdn.com/9240/lag_180945.mp3
+#EXTINF:-1,Radio RTL France  
+http://streaming.radio.rtl.fr/rtl-1-44-128
+#EXTINF:-1,Radio France
+http://mp3.live.tv-radio.com/franceinfo/all/franceinfo.mp3
