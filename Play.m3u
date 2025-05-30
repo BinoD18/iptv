@@ -31,3 +31,19 @@ http://120.jvc.one:80/live/p5M63140/4AS96448/820877.m3u8
 http://120.jvc.one:80/live/p5M63140/4AS96448/820876.m3u8
 #EXTINF:-1 tvg-id="France5.fr" tvg-name="[FR] FRANCE 5 FHD" tvg-logo="http://103.176.90.118/picons/logos/france/FRANCE5FHD.png" group-title="FRANCE FHD | TV",[FR] FRANCE 5 FHD
 http://120.jvc.one:80/live/p5M63140/4AS96448/820875.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[FR] TF1 FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/CANAL-PLUS-UHD.png" group-title="FRANCE FHD | TV",[FR] TF1 FHD
+http://120.jvc.one:80/live/p5M63140/4AS96448/1149245.m3u8
+#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="[FR] CANAL+ FHD" tvg-logo="http://103.176.90.118/picons/logos/france/CANAL-FHD.png" group-title="FRANCE FHD | TV",[FR] CANAL+ FHD
+http://120.jvc.one:80/live/p5M63140/4AS96448/820858.m3u8
+#EXTINF:-1 tvg-id="CanalPlusCinema.fr" tvg-name="[FR] CANAL+ CINEMA FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/CANAL-CINEMA-HEVC.png" group-title="FRANCE FHD | TV",[FR] CANAL+ CINEMA FHD
+http://120.jvc.one:80/live/p5M63140/4AS96448/820857.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[FR] CANAL+ BOX OFFICE FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/CANAL-BOX-OFFICE.png" group-title="FRANCE FHD | TV",[FR] CANAL+ BOX OFFICE FHD
+http://120.jvc.one:80/live/p5M63140/4AS96448/820789.m3u8
+#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="[FR] CANAL+ SPORT FHD" tvg-logo="http://103.176.90.118/picons/logos/france/CANAL-SPORT.png" group-title="FRANCE FHD | TV",[FR] CANAL+ SPORT FHD
+http://120.jvc.one:80/live/p5M63140/4AS96448/820856.m3u8
+#EXTINF:-1 tvg-id="CanalplusSeries.fr" tvg-name="[FR] CANAL+ SERIES FHD" tvg-logo="http://103.176.90.118/piconsnew/canalplusseries.png" group-title="FRANCE FHD | TV",[FR] CANAL+ SERIES FHD
+http://120.jvc.one:80/live/p5M63140/4AS96448/820855.m3u8
+#EXTINF:-1 tvg-id="CanalPlusGrandEcran.fr" tvg-name="[FR] CANAL+ GRAND ECRAN FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/CANAL-GRAND-ECRAN.png" group-title="FRANCE FHD | TV",[FR] CANAL+ GRAND ECRAN FHD
+http://120.jvc.one:80/live/p5M63140/4AS96448/820854.m3u8
+#EXTINF:-1 tvg-id="CanalPlusKids.fr" tvg-name="[FR] CANAL+ KIDS FHD" tvg-logo="http://103.176.90.118/piconsnew/canalpluskids.png" group-title="FRANCE FHD | TV",[FR] CANAL+ KIDS FHD
+http://120.jvc.one:80/live/p5M63140/4AS96448/820853.m3u8
