@@ -161,3 +161,5 @@ http://120.jvc.one:80/live/p5M63140/4AS96448/945421.m3u8
 http://120.jvc.one:80/live/p5M63140/4AS96448/945420.m3u8
 #EXTINF:-1 tvg-id="ESPN4.nl" tvg-name="16K | ESPN 4 UHD" tvg-logo="http://103.176.90.118/piconsnew/espn4.png" group-title="[EU] 16K NEDERLANDᵁᴴᴰ",16K | ESPN 4 UHD
 http://120.jvc.one:80/live/p5M63140/4AS96448/945419.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[VT] FRANCE 24" tvg-logo="http://103.176.90.118/picons-dino/logos/france24hd.png" group-title="|AS| VIETNAM",[VT] FRANCE 24
+http://120.jvc.one:80/live/p5M63140/4AS96448/500856.m3u8
