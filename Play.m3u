@@ -169,3 +169,15 @@ http://120.jvc.one:80/live/p5M63140/4AS96448/945420.m3u8
 http://120.jvc.one:80/live/p5M63140/4AS96448/945419.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[VT] FRANCE 24" tvg-logo="http://103.176.90.118/picons-dino/logos/france24hd.png" group-title="|AS| VIETNAM",[VT] FRANCE 24
 http://120.jvc.one:80/live/p5M63140/4AS96448/500856.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AF: RTG2 GH" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12776.png?16355" group-title="FR| CANAL+ AFRICA",AF: RTG2 GH
+http://cf.pro-cdn.me:80/live/1c3173b1d7dc/64079c3587/293407.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AF: RTI 1" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12776.png?16355" group-title="FR| CANAL+ AFRICA",AF: RTI 1
+http://cf.pro-cdn.me:80/live/1c3173b1d7dc/64079c3587/293267.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AF: RTI TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12776.png?16355" group-title="FR| CANAL+ AFRICA",AF: RTI TV
+http://cf.pro-cdn.me:80/live/1c3173b1d7dc/64079c3587/293409.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AF: RTI2" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12776.png?16355" group-title="FR| CANAL+ AFRICA",AF: RTI2
+http://cf.pro-cdn.me:80/live/1c3173b1d7dc/64079c3587/293408.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AF: RTL 9" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12776.png?16355" group-title="FR| CANAL+ AFRICA",AF: RTL 9
+http://cf.pro-cdn.me:80/live/1c3173b1d7dc/64079c3587/293266.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AF: RTNB" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12776.png?16355" group-title="FR| CANAL+ AFRICA",AF: RTNB
+http://cf.pro-cdn.me:80/live/1c3173b1d7dc/64079c3587/293410.m3u8
