@@ -1,1 +1,11 @@
-
+#EXTM3U
+#EXTINF:-1 tvg-id="RTI1.ci" tvg-logo="https://i.imgur.com/TybQZQS.png" group-title="General",RTI 1 (1080p) [Not 24/7]
+https://klive.kaltura.com/s/env/d.live.nvp1/live/hls/p/6234172/e/1_j70d7pdb/tl/main/st/0/t/5_IGuAZSyQ1wUYmlzToE5g/index-s32.m3u8?__hdnea__=st=1748027618~exp=1748114018~acl=/s/env/d.live.nvp1/live/hls/p/6234172/e/1_j70d7pdb/tl/main/st/0/t/5_IGuAZSyQ1wUYmlzToE5g/index-s32.m3u8*~hmac=b2376f3287f2ef471f33fd476047cb9ba6fdd31f3806a6484b4addc3614c58f6
+#EXTINF:-1 tvg-id="RTI2.ci" tvg-logo="https://i.imgur.com/73ueXrp.png" group-title="General",RTI 2 (1080p) [Not 24/7]
+https://klive.kaltura.com/s/env/d.live.nvp1/live/hls/p/6234172/e/1_ad7taytx/tl/main/st/0/t/bhIXrpGJPyivZ7hyDUEC5w/index-s32.m3u8?__hdnea__=st=1748027821~exp=1748114221~acl=/s/env/d.live.nvp1/live/hls/p/6234172/e/1_ad7taytx/tl/main/st/0/t/bhIXrpGJPyivZ7hyDUEC5w/index-s32.m3u8*~hmac=5b2284debe5149fb5345f0947b875a139152be06e8a3b86f38ce278b4e9067d9
+#EXTINF:-1 tvg-id="RTILa3.ci" tvg-logo="https://i.imgur.com/HdNshgF.png" group-title="Music;Sports",RTI La 3 (1080p) [Not 24/7]
+https://cdnapisec.kaltura.com/p/6234172/sp/623417200/playManifest/entryId/1_ad7taytx/protocol/https/format/applehttp/flavorIds/1_pqmvtyx2,1_wrwofqcj,1_sl3xxzzg/a.m3u8?uiConfId=56536812&playSessionId=d05f5c30-3e55-3f7a-5993-29ad59dabf7b:b4b6b1fc-1e6c-0fd1-1f59-1f2149f131a7&referrer=aHR0cHM6Ly93d3cucnRpLmNpL2xhMy9kaXJlY3Q=&clientTag=html5:v7.174
+#EXTINF:-1 tvg-id="NCI.ci" tvg-logo="https://i.imgur.com/I3pv69r.png" group-title="General",NCI (1080p)
+https://cflive.kaltura.com/scf/env/d.live.nvp1/live/hls/p/5571652/e/1_2gnrfyb6/tl/main/st/0/t/5LH1nnmqAiCESjIWCEotWg/index-s32.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZmxpdmUua2FsdHVyYS5jb20vc2NmL2Vudi9kLmxpdmUubnZwMS9saXZlL2hscy9wLzU1NzE2NTIvZS8xXzJnbnJmeWI2L3RsL21haW4vc3QvMC90LzVMSDFubm1xQWlDRVNqSVdDRW90V2cvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0ODAwMjAxNn19fV19&Signature=FpvC-9Vab4cAzgCugO~p4-psFMaEP0d7siQFbvE04IMztlM8mPHmPFWmjXPlXhQz90Cv2LC0ozmWq6VzOBZpJWyXcQ9vN7ZDPDxcAHPgH1nwB0Cujp3-9sHWaOaIw32LNLq1w2wPVu2JDT79Orr2Wd4BGBpcCUuYm8zaRbmh5gBydi81jlupaIUfZy5IgRquyXOni4UXDYARbfmTn2uCfmzRsL6jeCCxDo~LTmPpWRJG-rMiQo55MtsTgyVRQ078YcwIhTgoC1BLdbzR79zriaG50jrEacnWzh~Aoqx74LqSBAka~qX9DotpCCvMMLEOWmOQWRFNxW2F~OzV31IV9w__&Key-Pair-Id=K31ANTJBLNVBEC
+#EXTINF:-1 tvg-id="LifeTV.ci" tvg-logo="https://i.imgur.com/iz9qHZk.png" group-title="General",Life TV
+https://strhls.streamakaci.tv/str_lifetv_lifetv/str_lifetv_multi/playlist.m3u8
