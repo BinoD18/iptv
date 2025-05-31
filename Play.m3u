@@ -22,3 +22,5 @@ https://video1.getstreamhosting.com:1936/8284/8284/playlist.m3u8
 https://d219tvyafu2vka.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-csm4hzxgjueax/index.m3u8
 #EXTINF:-1 tvg-id="NTV.ci" tvg-logo="https://i.imgur.com/qqLXdHz.png" group-title="General",NTV Afrique (1080p) [Not 24/7]
 https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/playlist.m3u8
+#EXTINF:-1 tvg-id="Medi1TVAfrique.ma" tvg-logo="https://i.imgur.com/OioFepy.jpeg" group-title="News",Medi 1 TV Afrique (1080p) [Not 24/7]
+https://streaming1.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8
