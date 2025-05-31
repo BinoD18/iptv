@@ -44,18 +44,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://amg01131-tracetv-tracelatina-klowdtv-v10em.amagi.tv/playlist/amg01131-tracetv-tracelatina-klowdtv/playlist.m3u8
 #EXTINF:-1 tvg-id="A12TV.ci@SD" tvg-logo="https://i.imgur.com/JgnjgvF.png" group-title="General",A12 TV (720p)
 https://video1.getstreamhosting.com:1936/8420/8420/playlist.m3u8
-#EXTINF:-1 tvg-id="TraceSportStars.fr" tvg-logo="https://i.imgur.com/FabFP5A.png" group-title="Sports",Trace Sport Stars (1080p) [Geo-blocked]
-http://tracesportstars-samsunges.amagi.tv/hls/amagi_hls_data_samsunguk-tracesport-samsungspain/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="TraceUrban.fr" tvg-logo="https://i.imgur.com/DLIbUMx.png" group-title="Music",Trace Urban (720p)
 https://amg01131-tracetv-traceurban-klowdtv-utiqd.amagi.tv/playlist/amg01131-tracetv-traceurban-klowdtv/playlist.m3u8
-#EXTINF:-1 tvg-id="France2.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/512px-France_2_2018.svg.png" group-title="General",France 2 (1080p) [Geo-blocked]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france2.m3u8
-#EXTINF:-1 tvg-id="France3.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/512px-France_3_2018.svg.png" group-title="General",France 3 (1080p) [Geo-blocked]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france3.m3u8
-#EXTINF:-1 tvg-id="France4.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/512px-France_4_2018.svg.png" group-title="Kids",France 4 (1080p) [Geo-blocked]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france4.m3u8
-#EXTINF:-1 tvg-id="France5.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/512px-France_5_2018.svg.png" group-title="General",France 5 (1080p) [Geo-blocked]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france5.m3u8
 http://live-reflector.ice.infomaniak.ch/rfimonde-96k.mp3?rtmp://tv.muntumedia.com:1935/live/mp4:RTGA.mp4/pageUrl=http://www.muntumedia.com/docast.smbest
 #EXTINF:-1,RFI AFRIQUE
 http://live-reflector.ice.infomaniak.ch/rfiafrique-96k.mp3?rtmp://tv.muntumedia.com:1935/live/mp4:RTGA.mp4/pageUrl=http://www.muntumedia.com/docast.smbest
