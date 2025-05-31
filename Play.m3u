@@ -12,3 +12,5 @@ https://edge12.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
 https://edge17.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
 #EXTINF:-1 tvg-id="Business24Africa.ci" tvg-logo="https://i.imgur.com/zZFl3vy.png" group-title="Business",Business 24 Africa (480p)
 https://cdn-globecast.akamaized.net/live/eds/business24_tv/hls_video/index.m3u8
+#EXTINF:-1 tvg-id="BblackAfrica.fr" tvg-logo="https://i.imgur.com/s1kLdBG.png" group-title="Music",Bblack! Africa (1080p)
+http://livevideo.vedge.infomaniak.com/livecast/ik:bblackafrica/manifest.m3u8
