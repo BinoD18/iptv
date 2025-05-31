@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="BeinSports1.fr" tvg-name="FR: BEIN SPORTS 1 HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/1366.png?26677" group-title="FR| FRANCE HEVC VIP",FR: BEIN SPORTS 1 HEVC
-httpS://cf.pro-cdn.me:80/live/1c3173b1d7dc/64079c3587/425570.m3u8
+http://cf.pro-cdn.me:80/live/1c3173b1d7dc/64079c3587/425570.m3u8
 #EXTINF:-1 tvg-id="BeinSports2.fr" tvg-name="FR: BEIN SPORTS 2 HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/532.png?20279" group-title="FR| FRANCE HEVC VIP",FR: BEIN SPORTS 2 HEVC
-https://cf.pro-cdn.me:80/live/1c3173b1d7dc/64079c3587/425571.m3u8
+http://cf.pro-cdn.me:80/live/1c3173b1d7dc/64079c3587/425571.m3u8
 #EXTINF:-1 tvg-id="BeinSports3.fr" tvg-name="FR: BEIN SPORTS 3 HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/533.png?99936" group-title="FR| FRANCE HEVC VIP",FR: BEIN SPORTS 3 HEVC
-https://cf.pro-cdn.me:80/live/1c3173b1d7dc/64079c3587/425572.m3u8
+http://cf.pro-cdn.me:80/live/1c3173b1d7dc/64079c3587/425572.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[COITED] BENIE TV" tvg-logo="http://51.158.145.100/picons/logos/AFRICA/BENIE.png" group-title="|AF| AFRIQUE OTHERS",[COITED] BENIE TV
-https://120.jvc.one:80/live/p5M63140/4AS96448/679991.m3u8
+http://120.jvc.one:80/live/p5M63140/4AS96448/679991.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[COITED] LA 3 HD" tvg-logo="http://51.158.145.100/picons/logos/logos/LA-3.png" group-title="|AF| AFRIQUE OTHERS",[COITED] LA 3 HD
 http://120.jvc.one:80/live/p5M63140/4AS96448/564497.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[COITED] LMTV" tvg-logo="http://51.158.145.100/picons/logos/logos/LMTV.png" group-title="|AF| AFRIQUE OTHERS",[COITED] LMTV
