@@ -5,3 +5,8 @@ https://strhls.streamakaci.tv/str_lifetv_lifetv/str_lifetv_multi/playlist.m3u8
 https://cdnapisec.kaltura.com/p/6234172/sp/623417200/playManifest/entryId/1_ad7taytx/protocol/https/format/applehttp/flavorIds/1_pqmvtyx2,1_wrwofqcj,1_sl3xxzzg/a.m3u8?uiConfId=56536812&playSessionId=d05f5c30-3e55-3f7a-5993-29ad59dabf7b:b4b6b1fc-1e6c-0fd1-1f59-1f2149f131a7&referrer=aHR0cHM6Ly93d3cucnRpLmNpL2xhMy9kaXJlY3Q=&clientTag=html5:v7.174
 #EXTINF:-1 tvg-id="APlusIvoire.ci" tvg-logo="https://i.imgur.com/yOW0vyP.png" group-title="Culture",A+ Ivoire (720p)
 http://69.64.57.208/atv/playlist.m3u8
+https://mediaserver.abnvideos.com/streams/abnafrica.m3u8
+#EXTINF:-1 tvg-id="Africa24.fr" tvg-logo="https://i.imgur.com/YWIJdai.png" group-title="News",Africa 24 (540p)
+https://edge12.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
+#EXTINF:-1 tvg-id="Africa24English.fr" tvg-logo="https://i.imgur.com/YWIJdai.png" group-title="News",Africa 24 English (1080p)
+https://edge17.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
