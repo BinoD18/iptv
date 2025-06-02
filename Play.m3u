@@ -54,3 +54,5 @@ https://klive.kaltura.com/s/env/d.live.nvp1/live/hls/p/6234172/e/1_07t3gjd6/tl/m
 #EXTINF:-1 tvg-id="RTI2.ci" tvg-logo="https://i.imgur.com/73ueXrp.png" group-title="General",RTI 2 (1080p) [Not 24/7]
 https://klive.kaltura.com/s/env/d.live.nvp1/live/hls/p/6234172/e/1_07t3gjd6/tl/main/st/0/t/l8jieYk_sCrRwP56A6T-qQ/index-s32.m3u8?__hdnea__=st=1748898507~exp=1748984907~acl=/s/env/d.live.nvp1/live/hls/p/6234172/e/1_07t3gjd6/tl/main/st/0/t/l8jieYk_sCrRwP56A6T-qQ/index-s32.m3u8*~hmac=a03b842b7ec03889f473b29f0f4ea1a6ed1dadf7f77849cac14b2879edd8c850
 https://www.enovativecdn.com/rticdn/smil:rti2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="7Info.ci" tvg-logo="https://i.imgur.com/jcl1nNR.png" group-title="News",7 Info (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCqA1FRAWs2VIiXf2cUYSQBQ.m3u8
