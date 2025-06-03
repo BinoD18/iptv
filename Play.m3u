@@ -575,3 +575,9 @@ http://cf.pro-cdn.me:80/live/b43c022e278a/5d30681bfa/1298976.m3u8
 http://cf.pro-cdn.me:80/live/b43c022e278a/5d30681bfa/1298975.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AFR: LOVE NATURE" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/TRACE-KITOKO.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: LOVE NATURE
 http://cf.pro-cdn.me:80/live/b43c022e278a/5d30681bfa/1298974.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.fr" tvg-name="FR: NATINAL GEO HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6151.png?76202" group-title="FR| FRANCE HEVC VIP",FR: NATINAL GEO HEVC
+http://cf.pro-cdn.me:80/live/b43c022e278a/5d30681bfa/425532.m3u8
+#EXTINF:-1 tvg-id="NatGeoWild.fr" tvg-name="FR: NATIONAL GEOGRAPHIC WILD HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/1420.jpg?80954" group-title="FR| FRANCE HEVC VIP",FR: NATIONAL GEOGRAPHIC WILD HEVC
+http://cf.pro-cdn.me:80/live/b43c022e278a/5d30681bfa/425531.m3u8
+#EXTINF:-1 tvg-id="LifeTV.ci" tvg-logo="https://i.imgur.com/iz9qHZk.png" group-title="General",Life TV
+https://strhls.streamakaci.tv/str_lifetv_lifetv/str_lifetv_multi/playlist.m3u8
