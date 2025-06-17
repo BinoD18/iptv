@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="LifeTV.ci" tvg-logo="https://i.imgur.com/iz9qHZk.png" group-title="General",Life TV
-https://strhls.streamakaci.tv/str_lifetv_lifetv/str_lifetv_multi/playlist.m3u8
 #EXTINF:-1 tvg-id="RTILa3.ci" tvg-logo="https://i.imgur.com/HdNshgF.png" group-title="Music;Sports",RTI La 3 (1080p) [Not 24/7]
 https://cdnapisec.kaltura.com/p/6234172/sp/623417200/playManifest/entryId/1_ad7taytx/protocol/https/format/applehttp/flavorIds/1_pqmvtyx2,1_wrwofqcj,1_sl3xxzzg/a.m3u8?uiConfId=56536812&playSessionId=d05f5c30-3e55-3f7a-5993-29ad59dabf7b:b4b6b1fc-1e6c-0fd1-1f59-1f2149f131a7&referrer=aHR0cHM6Ly93d3cucnRpLmNpL2xhMy9kaXJlY3Q=&clientTag=html5:v7.174
 #EXTINF:-1 tvg-id="APlusIvoire.ci" tvg-logo="https://i.imgur.com/yOW0vyP.png" group-title="Culture",A+ Ivoire (720p)
@@ -44,3 +42,5 @@ http://live-reflector.ice.infomaniak.ch/rfimonde-96k.mp3?rtmp://tv.muntumedia.co
 #EXTINF:-1,RFI AFRIQUE
 http://live-reflector.ice.infomaniak.ch/rfiafrique-96k.mp3?rtmp://tv.muntumedia.com:1935/live/mp4:RTGA.mp4/pageUrl=http://www.muntumedia.com/docast.smbest
 0681bfa/1299025.m3u8
+#EXTINF:-1 tvg-id="LifeTV.ci" tvg-logo="https://i.imgur.com/iz9qHZk.png" group-title="General",Life TV
+https://strhls.streamakaci.tv/str_lifetv_lifetv/str_lifetv_multi/playlist.m3u8
