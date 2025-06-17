@@ -44,11 +44,3 @@ http://live-reflector.ice.infomaniak.ch/rfimonde-96k.mp3?rtmp://tv.muntumedia.co
 #EXTINF:-1,RFI AFRIQUE
 http://live-reflector.ice.infomaniak.ch/rfiafrique-96k.mp3?rtmp://tv.muntumedia.com:1935/live/mp4:RTGA.mp4/pageUrl=http://www.muntumedia.com/docast.smbest
 0681bfa/1299025.m3u8
-#EXTINF:-1 tvg-id="TF1.fr_1" tvg-name="FR| TF1 SD" tvg-logo="http://covers.dynns.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/tf1-sd.png" group-title="FR| FRANCE HEVC SD",FR| TF1 SD
-http://500550.org:8080/932K1q6tFR7wDFb/UoKkryRAYVAvbNq/58943
-#EXTINF:-1 tvg-id="France2.fr_1" tvg-name="FR| FRANCE 2 SD" tvg-logo="http://covers.dynns.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/france%202.png" group-title="FR| FRANCE HEVC SD",FR| FRANCE 2 SD
-http://500550.org:8080/932K1q6tFR7wDFb/UoKkryRAYVAvbNq/58945
-#EXTINF:-1 tvg-id="France3.fr_1" tvg-name="FR| FRANCE 3 SD" tvg-logo="http://covers.dynns.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/france%203.png" group-title="FR| FRANCE HEVC SD",FR| FRANCE 3 SD
-http://500550.org:8080/932K1q6tFR7wDFb/UoKkryRAYVAvbNq/58946
-#EXTINF:-1 tvg-id="France4.fr_1" tvg-name="FR| FRANCE 4 SD" tvg-logo="http://covers.dynns.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/france%204.png" group-title="FR| FRANCE HEVC SD",FR| FRANCE 4 SD
-http://500550.org:8080/932K1q6tFR7wDFb/UoKkryRAYVAvbNq/58947
