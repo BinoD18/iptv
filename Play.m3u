@@ -1,278 +1,244 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="#### FRANCE HEVC VIP ####" tvg-logo="" group-title="FR| FRANCE HEVC VIP",#### FRANCE HEVC VIP ####
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425627.m3u8
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="FR: TF1 HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6235.png?3361" group-title="FR| FRANCE HEVC VIP",FR: TF1 HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425516.m3u8
-#EXTINF:-1 tvg-id="TF1.fr" tvg-name="FR: TF1 +1 HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6235.png?69042" group-title="FR| FRANCE HEVC VIP",FR: TF1 +1 HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425524.m3u8
-#EXTINF:-1 tvg-id="France2.fr" tvg-name="FR: FRANCE 2 HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6305.png?88674" group-title="FR| FRANCE HEVC VIP",FR: FRANCE 2 HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425518.m3u8
-#EXTINF:-1 tvg-id="France3.fr" tvg-name="FR: FRANCE 3 HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6296.png?10340" group-title="FR| FRANCE HEVC VIP",FR: FRANCE 3 HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425519.m3u8
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="FR: FRANCE 4 HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6291.png?29319" group-title="FR| FRANCE HEVC VIP",FR: FRANCE 4 HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425520.m3u8
-#EXTINF:-1 tvg-id="France5.fr" tvg-name="FR: FRANCE 5 HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6290.jpg?28778" group-title="FR| FRANCE HEVC VIP",FR: FRANCE 5 HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425521.m3u8
-#EXTINF:-1 tvg-id="France24.fr" tvg-name="FR: FRANCE 24 HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/328.jpg?93849" group-title="FR| FRANCE HEVC VIP",FR: FRANCE 24 HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425522.m3u8
-#EXTINF:-1 tvg-id="FranceInfo.fr" tvg-name="FR: FRANCE INFO HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6287.jpg?21890" group-title="FR| FRANCE HEVC VIP",FR: FRANCE INFO HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425523.m3u8
-#EXTINF:-1 tvg-id="BeinSports1.fr" tvg-name="FR: BEIN SPORTS 1 HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/1366.png?26677" group-title="FR| FRANCE HEVC VIP",FR: BEIN SPORTS 1 HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425570.m3u8
-#EXTINF:-1 tvg-id="BeinSports2.fr" tvg-name="FR: BEIN SPORTS 2 HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/532.png?20279" group-title="FR| FRANCE HEVC VIP",FR: BEIN SPORTS 2 HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425571.m3u8
-#EXTINF:-1 tvg-id="BeinSports3.fr" tvg-name="FR: BEIN SPORTS 3 HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/533.png?99936" group-title="FR| FRANCE HEVC VIP",FR: BEIN SPORTS 3 HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425572.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX 4 HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6342.png?26954" group-title="FR| FRANCE HEVC VIP",FR: BEIN SPORTS MAX 4 HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425621.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX 5 HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6340.png?10505" group-title="FR| FRANCE HEVC VIP",FR: BEIN SPORTS MAX 5 HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425622.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX 6 HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11501.png?28983" group-title="FR| FRANCE HEVC VIP",FR: BEIN SPORTS MAX 6 HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425623.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX 7 HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8299.png?88939" group-title="FR| FRANCE HEVC VIP",FR: BEIN SPORTS MAX 7 HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425624.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX 8 HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11500.png?37294" group-title="FR| FRANCE HEVC VIP",FR: BEIN SPORTS MAX 8 HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425625.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX 9 HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11498.png?ver=14951" group-title="FR| FRANCE HEVC VIP",FR: BEIN SPORTS MAX 9 HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425626.m3u8
-#EXTINF:-1 tvg-id="PrimeVideoLigue1.fr" tvg-name="FR: LIGUE premier 1 HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6109.jpg?63166" group-title="FR| FRANCE HEVC VIP",FR: LIGUE premier 1 HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425515.m3u8
-#EXTINF:-1 tvg-id="RMCSport1.fr" tvg-name="FR: RMC SPORT 1 HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6295.png?12794" group-title="FR| FRANCE HEVC VIP",FR: RMC SPORT 1 HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425604.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 2 HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6119.png?25638" group-title="FR| FRANCE HEVC VIP",FR: RMC SPORT 2 HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425543.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 3 HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10703.png?89737" group-title="FR| FRANCE HEVC VIP",FR: RMC SPORT 3 HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425509.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 4 HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/9977.png?64540" group-title="FR| FRANCE HEVC VIP",FR: RMC SPORT 4 HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425510.m3u8
-#EXTINF:-1 tvg-id="RMCSportLive5.fr" tvg-name="FR: RMC Sport Live 5 HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13612.png?25776" group-title="FR| FRANCE HEVC VIP",FR: RMC Sport Live 5 HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425612.m3u8
-#EXTINF:-1 tvg-id="RMCSportLive6.fr" tvg-name="FR: RMC Sport Live 6 HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/9978.png?49269" group-title="FR| FRANCE HEVC VIP",FR: RMC Sport Live 6 HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425613.m3u8
-#EXTINF:-1 tvg-id="RMCSportLive7.fr" tvg-name="FR: RMC Sport Live 7 HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6294.png?60705" group-title="FR| FRANCE HEVC VIP",FR: RMC Sport Live 7 HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425614.m3u8
-#EXTINF:-1 tvg-id="RMCSportLive8.fr" tvg-name="FR: RMC Sport Live 8 HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12421.png?73653" group-title="FR| FRANCE HEVC VIP",FR: RMC Sport Live 8 HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425615.m3u8
-#EXTINF:-1 tvg-id="RMCSportLive9.fr" tvg-name="FR: RMC Sport Live 9 HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12249.png?14725" group-title="FR| FRANCE HEVC VIP",FR: RMC Sport Live 9 HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425616.m3u8
-#EXTINF:-1 tvg-id="RMCSportLive10.fr" tvg-name="FR: RMC Sport Live 10 HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12417.png?27509" group-title="FR| FRANCE HEVC VIP",FR: RMC Sport Live 10 HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425617.m3u8
-#EXTINF:-1 tvg-id="RMCSportLive11.fr" tvg-name="FR: RMC Sport Live 11 HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12429.png?32514" group-title="FR| FRANCE HEVC VIP",FR: RMC Sport Live 11 HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425618.m3u8
-#EXTINF:-1 tvg-id="RMCSportLive12.fr" tvg-name="FR: RMC Sport Live 12 HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12421.png?73653" group-title="FR| FRANCE HEVC VIP",FR: RMC Sport Live 12 HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425619.m3u8
-#EXTINF:-1 tvg-id="RMCSportLive13.fr" tvg-name="FR: RMC Sport Live 13 HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/9913.png?18775" group-title="FR| FRANCE HEVC VIP",FR: RMC Sport Live 13 HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425620.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Access HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/9980.png?83576" group-title="FR| FRANCE HEVC VIP",FR: RMC Sport Access HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425611.m3u8
-#EXTINF:-1 tvg-id="RMCdecouverte.fr" tvg-name="FR: RMC DECOUVERTE HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6128.jpg?83465" group-title="FR| FRANCE HEVC VIP",FR: RMC DECOUVERTE HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425583.m3u8
-#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="FR: EUROSPORT 1 HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/1934.png?40558" group-title="FR| FRANCE HEVC VIP",FR: EUROSPORT 1 HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425591.m3u8
-#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="FR: EUROSPORT 2 HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3299.png?54930" group-title="FR| FRANCE HEVC VIP",FR: EUROSPORT 2 HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425560.m3u8
-#EXTINF:-1 tvg-id="6ter.fr" tvg-name="FR: 6TER HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6369.jpg?57160" group-title="FR| FRANCE HEVC VIP",FR: 6TER HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425566.m3u8
-#EXTINF:-1 tvg-id="13emeRue.mu" tvg-name="FR: 13EME RUE HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6373.jpg?27918" group-title="FR| FRANCE HEVC VIP",FR: 13EME RUE HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425567.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR: AB MOTEURS HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6353.jpg?62209" group-title="FR| FRANCE HEVC VIP",FR: AB MOTEURS HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425569.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR: AB1 HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6352.jpg?84188" group-title="FR| FRANCE HEVC VIP",FR: AB1 HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425541.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR: AB3 HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13175.jpg?74399" group-title="FR| FRANCE HEVC VIP",FR: AB3 HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425601.m3u8
-#EXTINF:-1 tvg-id="Action.fr" tvg-name="FR: ACTION HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6694.png?26233" group-title="FR| FRANCE HEVC VIP",FR: ACTION HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425588.m3u8
-#EXTINF:-1 tvg-id="Animaux.fr" tvg-name="FR: ANIMAUX HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6357.png?48228" group-title="FR| FRANCE HEVC VIP",FR: ANIMAUX HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425540.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR: ALTICE STUDIO HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/4725.jpg?75594" group-title="FR| FRANCE HEVC VIP",FR: ALTICE STUDIO HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425536.m3u8
-#EXTINF:-1 tvg-id="ARTE.fr" tvg-name="FR: ARTE HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6348.jpg?7082" group-title="FR| FRANCE HEVC VIP",FR: ARTE HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425565.m3u8
-#EXTINF:-1 tvg-id="BET.fr" tvg-name="FR: BET HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8291.jpg?27608" group-title="FR| FRANCE HEVC VIP",FR: BET HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425608.m3u8
-#EXTINF:-1 tvg-id="BFMParis.fr" tvg-name="FR: BFM Paris HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12335.jpg?41009" group-title="FR| FRANCE HEVC VIP",FR: BFM Paris HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425511.m3u8
-#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="FR: BFM TV HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8515.png?34511" group-title="FR| FRANCE HEVC VIP",FR: BFM TV HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425502.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR: BREIZH HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6232.jpg?36064" group-title="FR| FRANCE HEVC VIP",FR: BREIZH HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425589.m3u8
-#EXTINF:-1 tvg-id="WarnerTV.fr" tvg-name="FR: WARNER TV HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/9673.jpg?19107" group-title="FR| FRANCE HEVC VIP",FR: WARNER TV HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425504.m3u8
-#EXTINF:-1 tvg-id="C8.fr" tvg-name="FR: C8 HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6336.jpg?18752" group-title="FR| FRANCE HEVC VIP",FR: C8 HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425599.m3u8
-#EXTINF:-1 tvg-id="ChassePeche.fr" tvg-name="FR: CHASSE ET PECHE HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6329.jpg?75352" group-title="FR| FRANCE HEVC VIP",FR: CHASSE ET PECHE HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425525.m3u8
-#EXTINF:-1 tvg-id="Cherie25.fr" tvg-name="FR: Cherie 25 HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6322.png?63537" group-title="FR| FRANCE HEVC VIP",FR: Cherie 25 HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425508.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR: CINE PREMIER HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3971.jpg?65806" group-title="FR| FRANCE HEVC VIP",FR: CINE PREMIER HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425496.m3u8
-#EXTINF:-1 tvg-id="CrimeDistrict.fr" tvg-name="FR: CRIME DISTRICT HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6313.jpg?74950" group-title="FR| FRANCE HEVC VIP",FR: CRIME DISTRICT HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425501.m3u8
-#EXTINF:-1 tvg-id="CinePlusClassic.fr" tvg-name="FR: CINE+ CLASSIC HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/1963.jpg?61328" group-title="FR| FRANCE HEVC VIP",FR: CINE+ CLASSIC HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425500.m3u8
-#EXTINF:-1 tvg-id="CinePlusClub.fr" tvg-name="FR: CINE+ CLUB HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3329.png?68141" group-title="FR| FRANCE HEVC VIP",FR: CINE+ CLUB HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425499.m3u8
-#EXTINF:-1 tvg-id="CinePlusEmotion.fr" tvg-name="FR: CINE+ EMOTION HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/2268.jpg?12621" group-title="FR| FRANCE HEVC VIP",FR: CINE+ EMOTION HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425495.m3u8
-#EXTINF:-1 tvg-id="CinePlusFamiz.fr" tvg-name="FR: CINE+ FAMIZ HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/1964.jpg?92762" group-title="FR| FRANCE HEVC VIP",FR: CINE+ FAMIZ HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425498.m3u8
-#EXTINF:-1 tvg-id="CinePlusFrisson.fr" tvg-name="FR: CINE+ FRISSON HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3968.jpg?5787" group-title="FR| FRANCE HEVC VIP",FR: CINE+ FRISSON HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425497.m3u8
-#EXTINF:-1 tvg-id="CNews.fr" tvg-name="FR: CNEWS HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6314.jpg?33428" group-title="FR| FRANCE HEVC VIP",FR: CNEWS HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425594.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR: COMEDIE+ HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10155.jpg?68051" group-title="FR| FRANCE HEVC VIP",FR: COMEDIE+ HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425533.m3u8
-#EXTINF:-1 tvg-id="ComedyCentral.fr" tvg-name="FR: COMEDY CENTRAL HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/749.png?ver=29992" group-title="FR| FRANCE HEVC VIP",FR: COMEDY CENTRAL HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425564.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR: CSTAR HITS FRANCE HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6311.jpg?56381" group-title="FR| FRANCE HEVC VIP",FR: CSTAR HITS FRANCE HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425563.m3u8
-#EXTINF:-1 tvg-id="CanalJ.fr" tvg-name="FR: CANAL J HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10030.png?53568" group-title="FR| FRANCE HEVC VIP",FR: CANAL J HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425534.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL TOP 14 HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10035.jpg?54325" group-title="FR| FRANCE HEVC VIP",FR: CANAL TOP 14 HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425514.m3u8
-#EXTINF:-1 tvg-id="CanalPlusCinema.fr" tvg-name="FR: CANAL+ CINEMA HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10026.jpg?68398" group-title="FR| FRANCE HEVC VIP",FR: CANAL+ CINEMA HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425574.m3u8
-#EXTINF:-1 tvg-id="CanalPlusDocs.fr" tvg-name="FR: CANAL+ DOCS HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8510.jpg?11640" group-title="FR| FRANCE HEVC VIP",FR: CANAL+ DOCS HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425577.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ GRAND ECRAN  HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8307.jpg?12506" group-title="FR| FRANCE HEVC VIP",FR: CANAL+ GRAND ECRAN  HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425578.m3u8
-#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="FR: CANAL+ HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10027.jpg?31354" group-title="FR| FRANCE HEVC VIP",FR: CANAL+ HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425573.m3u8
-#EXTINF:-1 tvg-id="CanalPlusKids.fr" tvg-name="FR: CANAL+ KIDS+ HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10022.jpg?26543" group-title="FR| FRANCE HEVC VIP",FR: CANAL+ KIDS+ HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425576.m3u8
-#EXTINF:-1 tvg-id="CanalplusSeries.fr" tvg-name="FR: CANAL+ SERIES HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10024.png?ver=75384" group-title="FR| FRANCE HEVC VIP",FR: CANAL+ SERIES HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425600.m3u8
-#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="FR: CANAL+ Sport 360 HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6333.jpg?41158" group-title="FR| FRANCE HEVC VIP",FR: CANAL+ Sport 360 HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425597.m3u8
-#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="FR: CANAL+ SPORT HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6333.jpg?48758" group-title="FR| FRANCE HEVC VIP",FR: CANAL+ SPORT HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425575.m3u8
-#EXTINF:-1 tvg-id="CanalPlusFoot.fr" tvg-name="FR: CANAL+ FOOT HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6333.jpg?97194" group-title="FR| FRANCE HEVC VIP",FR: CANAL+ FOOT HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425596.m3u8
-#EXTINF:-1 tvg-id="DiscoveryChannel.fr" tvg-name="FR: DISCOVERY HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/617.jpg?75299" group-title="FR| FRANCE HEVC VIP",FR: DISCOVERY HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425526.m3u8
-#EXTINF:-1 tvg-id="DiscoveryScience.fr" tvg-name="FR: DISCOVERY SCIENCE HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/620.jpg?51925" group-title="FR| FRANCE HEVC VIP",FR: DISCOVERY SCIENCE HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425490.m3u8
-#EXTINF:-1 tvg-id="CartoonNetwork.fr" tvg-name="FR: CARTOON NETWORK HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/633.png?99258" group-title="FR| FRANCE HEVC VIP",FR: CARTOON NETWORK HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425593.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.fr" tvg-name="FR: DISNEY CHANNELL HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/634.jpg?95297" group-title="FR| FRANCE HEVC VIP",FR: DISNEY CHANNELL HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425507.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR: DISNEY CHANNEL+1 HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/628.jpg?20787" group-title="FR| FRANCE HEVC VIP",FR: DISNEY CHANNEL+1 HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425562.m3u8
-#EXTINF:-1 tvg-id="DisneyJunior.fr" tvg-name="FR: DISNEY JUNIOR HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/748.png?41721" group-title="FR| FRANCE HEVC VIP",FR: DISNEY JUNIOR HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425561.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.fr" tvg-name="FR: NICKELODEON JUNIOR HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6276.png?47453" group-title="FR| FRANCE HEVC VIP",FR: NICKELODEON JUNIOR HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425551.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.fr" tvg-name="FR: NICKELODEON TEEN HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6276.png?47453" group-title="FR| FRANCE HEVC VIP",FR: NICKELODEON TEEN HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425530.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.fr" tvg-name="FR: NICKELODEON+1 HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6276.png?47453" group-title="FR| FRANCE HEVC VIP",FR: NICKELODEON+1 HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425550.m3u8
-#EXTINF:-1 tvg-id="EEntertainment.fr" tvg-name="FR: E! ENTERTAINMENT HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6000.jpg?57334" group-title="FR| FRANCE HEVC VIP",FR: E! ENTERTAINMENT HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425609.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR: EQUIDA HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13730.jpg?ver=78551" group-title="FR| FRANCE HEVC VIP",FR: EQUIDA HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425544.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR: F1 HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10035.jpg?29385" group-title="FR| FRANCE HEVC VIP",FR: F1 HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425513.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR: GAME ONE HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6284.jpg?89796" group-title="FR| FRANCE HEVC VIP",FR: GAME ONE HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425503.m3u8
-#EXTINF:-1 tvg-id="GolfChannel.fr" tvg-name="FR: Golf Channel HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6282.png?80453" group-title="FR| FRANCE HEVC VIP",FR: Golf Channel HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425568.m3u8
-#EXTINF:-1 tvg-id="GolfPlus.fr" tvg-name="FR: GOLF+ HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6282.png?54789" group-title="FR| FRANCE HEVC VIP",FR: GOLF+ HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425559.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR: GULLI HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6682.jpg?49970" group-title="FR| FRANCE HEVC VIP",FR: GULLI HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425558.m3u8
-#EXTINF:-1 tvg-id="Histoire.fr" tvg-name="FR: HISTOIRE TV HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6289.png?97898" group-title="FR| FRANCE HEVC VIP",FR: HISTOIRE TV HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425557.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR: INFOSPORT+ HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6278.jpg?53592" group-title="FR| FRANCE HEVC VIP",FR: INFOSPORT+ HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425512.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR: J-ONE HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/7769.jpg?64180" group-title="FR| FRANCE HEVC VIP",FR: J-ONE HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425556.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR: L'EQUIPE HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/9336.jpg?86453" group-title="FR| FRANCE HEVC VIP",FR: L'EQUIPE HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425555.m3u8
-#EXTINF:-1 tvg-id="LCI.fr" tvg-name="FR: LCI HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6286.png?66975" group-title="FR| FRANCE HEVC VIP",FR: LCI HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425606.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR: LFM TV HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8200.jpg?8585" group-title="FR| FRANCE HEVC VIP",FR: LFM TV HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425610.m3u8
-#EXTINF:-1 tvg-id="M6.fr" tvg-name="FR: M6 HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6277.jpg?37517" group-title="FR| FRANCE HEVC VIP",FR: M6 HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425605.m3u8
-#EXTINF:-1 tvg-id="Mangas.fr" tvg-name="FR: MANGAS HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6268.jpg?86759" group-title="FR| FRANCE HEVC VIP",FR: MANGAS HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425539.m3u8
-#EXTINF:-1 tvg-id="MTV.fr" tvg-name="FR: MTV HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6622.png?46506" group-title="FR| FRANCE HEVC VIP",FR: MTV HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425554.m3u8
-#EXTINF:-1 tvg-id="MTVHitsFrance.fr" tvg-name="FR: MTV HITS HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3190.jpg?6856" group-title="FR| FRANCE HEVC VIP",FR: MTV HITS HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425553.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR: MUSEUM HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3058.png?63940" group-title="FR| FRANCE HEVC VIP",FR: MUSEUM HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425552.m3u8
-#EXTINF:-1 tvg-id="NationalGeographic.fr" tvg-name="FR: NATINAL GEO HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6151.png?76202" group-title="FR| FRANCE HEVC VIP",FR: NATINAL GEO HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425532.m3u8
-#EXTINF:-1 tvg-id="NatGeoWild.fr" tvg-name="FR: NATIONAL GEOGRAPHIC WILD HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/1420.jpg?80954" group-title="FR| FRANCE HEVC VIP",FR: NATIONAL GEOGRAPHIC WILD HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425531.m3u8
-#EXTINF:-1 tvg-id="NRJ12.fr" tvg-name="FR: NRJ 12 HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6256.jpg?80644" group-title="FR| FRANCE HEVC VIP",FR: NRJ 12 HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425598.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR: NRJ HITS HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6257.jpg?52173" group-title="FR| FRANCE HEVC VIP",FR: NRJ HITS HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425549.m3u8
-#EXTINF:-1 tvg-id="OCSChoc.fr" tvg-name="FR: OCS CHOC HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6254.jpg?58840" group-title="FR| FRANCE HEVC VIP",FR: OCS CHOC HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425491.m3u8
-#EXTINF:-1 tvg-id="OCSCity.fr" tvg-name="FR: OCS CITY HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6252.jpg?71894" group-title="FR| FRANCE HEVC VIP",FR: OCS CITY HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425492.m3u8
-#EXTINF:-1 tvg-id="OCSMax.fr" tvg-name="FR: OCS MAX HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6272.png?47311" group-title="FR| FRANCE HEVC VIP",FR: OCS MAX HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425494.m3u8
-#EXTINF:-1 tvg-id="OCSGeants.fr" tvg-name="FR: OCS GEANTS HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6253.jpg?29436" group-title="FR| FRANCE HEVC VIP",FR: OCS GEANTS HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425493.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR: OLYMPIA TV HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8407.jpg?75234" group-title="FR| FRANCE HEVC VIP",FR: OLYMPIA TV HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425548.m3u8
-#EXTINF:-1 tvg-id="ParamountChannel.fr" tvg-name="FR: PARAMOUNT CHANNEL HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/766.png?73457" group-title="FR| FRANCE HEVC VIP",FR: PARAMOUNT CHANNEL HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425581.m3u8
-#EXTINF:-1 tvg-id="ParamountChannel.fr" tvg-name="FR: Paramount Channel Décalé  HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/766.png?73457" group-title="FR| FRANCE HEVC VIP",FR: Paramount Channel Décalé  HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425582.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR: PIWI+ HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/743.png?82449" group-title="FR| FRANCE HEVC VIP",FR: PIWI+ HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425529.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR: PLANETE+ AVENTUR HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6243.png?93143" group-title="FR| FRANCE HEVC VIP",FR: PLANETE+ AVENTUR HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425547.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR: PLANETE+ CRIME HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6250.png?77895" group-title="FR| FRANCE HEVC VIP",FR: PLANETE+ CRIME HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425546.m3u8
-#EXTINF:-1 tvg-id="PlanetePlus.fr" tvg-name="FR: PLANETE+ HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/9916.png?32629" group-title="FR| FRANCE HEVC VIP",FR: PLANETE+ HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425545.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR: POLAR+ HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3364.jpg?88261" group-title="FR| FRANCE HEVC VIP",FR: POLAR+ HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425579.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR: RTL9 HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6240.png?26565" group-title="FR| FRANCE HEVC VIP",FR: RTL9 HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425590.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR: SCIENCE ET VIE HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10007.jpg?29856" group-title="FR| FRANCE HEVC VIP",FR: SCIENCE ET VIE HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425538.m3u8
-#EXTINF:-1 tvg-id="Seasons.fr" tvg-name="FR: SEASONS HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12267.jpg?98858" group-title="FR| FRANCE HEVC VIP",FR: SEASONS HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425542.m3u8
-#EXTINF:-1 tvg-id="SerieClub.fr" tvg-name="FR: SERIE CLUB HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6245.png?1090" group-title="FR| FRANCE HEVC VIP",FR: SERIE CLUB HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425528.m3u8
-#EXTINF:-1 tvg-id="Syfy.fr" tvg-name="FR: SYFY HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6611.png?59464" group-title="FR| FRANCE HEVC VIP",FR: SYFY HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425595.m3u8
-#EXTINF:-1 tvg-id="TCM.fr" tvg-name="FR: TCM CINEMA HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6242.png?15559" group-title="FR| FRANCE HEVC VIP",FR: TCM CINEMA HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425603.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR: TELETOON+ HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6239.jpg?84678" group-title="FR| FRANCE HEVC VIP",FR: TELETOON+ HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425505.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR: TELETOON+1 HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6239.jpg?84678" group-title="FR| FRANCE HEVC VIP",FR: TELETOON+1 HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425506.m3u8
-#EXTINF:-1 tvg-id="Teva.fr" tvg-name="FR: TEVA HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6233.png?99193" group-title="FR| FRANCE HEVC VIP",FR: TEVA HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425584.m3u8
-#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="FR: TF1 SERIES HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6234.jpg?22494" group-title="FR| FRANCE HEVC VIP",FR: TF1 SERIES HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425517.m3u8
-#EXTINF:-1 tvg-id="TFX.fr" tvg-name="FR: TFX HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6237.jpg?57348" group-title="FR| FRANCE HEVC VIP",FR: TFX HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425585.m3u8
-#EXTINF:-1 tvg-id="Tiji.fr" tvg-name="FR: TIJI HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6231.jpg?42626" group-title="FR| FRANCE HEVC VIP",FR: TIJI HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425535.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR: TMC +1 HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6228.png?83933" group-title="FR| FRANCE HEVC VIP",FR: TMC +1 HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425592.m3u8
-#EXTINF:-1 tvg-id="TMC.fr" tvg-name="FR: TMC HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6228.png?83933" group-title="FR| FRANCE HEVC VIP",FR: TMC HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425586.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR: TOUTE L HISTOIRE HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6230.jpg?55133" group-title="FR| FRANCE HEVC VIP",FR: TOUTE L HISTOIRE HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425537.m3u8
-#EXTINF:-1 tvg-id="Trek.fr" tvg-name="FR: TREK HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6229.jpg?21864" group-title="FR| FRANCE HEVC VIP",FR: TREK HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425602.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR: TV5MONDE EUROPE HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/93.jpg?ver=25285" group-title="FR| FRANCE HEVC VIP",FR: TV5MONDE EUROPE HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425607.m3u8
-#EXTINF:-1 tvg-id="UshuaiaTV.fr" tvg-name="FR: USHUAIA T HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6222.jpg?92041" group-title="FR| FRANCE HEVC VIP",FR: USHUAIA T HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425580.m3u8
-#EXTINF:-1 tvg-id="W9.fr" tvg-name="FR: W9 HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6224.png?47385" group-title="FR| FRANCE HEVC VIP",FR: W9 HEVC
-http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/425587.m3u8
+RAL HD/4K ####" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K",#### GÉNÉRAL HD/4K ####
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/398865.m3u8
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="FR: TF1 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6235.png?9801" group-title="FR| GÉNÉRAL HD/4K",FR: TF1 HD
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/207138.m3u8
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="FR: TF1 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6235.png?81727" group-title="FR| GÉNÉRAL HD/4K",FR: TF1 4K
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/106975.m3u8
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="FR: TF1 (UHD)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6235.png?85816" group-title="FR| GÉNÉRAL HD/4K",FR: TF1 (UHD)
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/220807.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: TF1 +1 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6235.png?85816" group-title="FR| GÉNÉRAL HD/4K",FR: TF1 +1 HD
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/220809.m3u8
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="FR: FRANCE 2 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6305.png?29567" group-title="FR| GÉNÉRAL HD/4K",FR: FRANCE 2 4K
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/106901.m3u8
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="FR: FRANCE 2 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6305.png?99684" group-title="FR| GÉNÉRAL HD/4K",FR: FRANCE 2 HD
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/207139.m3u8
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="FR: FRANCE 3 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6296.png?50910" group-title="FR| GÉNÉRAL HD/4K",FR: FRANCE 3 HD
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/207140.m3u8
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="FR: FRANCE 3 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6296.png?40161" group-title="FR| GÉNÉRAL HD/4K",FR: FRANCE 3 4K
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/106903.m3u8
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="FR: FRANCE 3 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6296.png?76322" group-title="FR| GÉNÉRAL HD/4K",FR: FRANCE 3 HD
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/220791.m3u8
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="FR: FRANCE 4 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6291.png?6131" group-title="FR| GÉNÉRAL HD/4K",FR: FRANCE 4 4K
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/106904.m3u8
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="FR: FRANCE 4 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6291.png?90969" group-title="FR| GÉNÉRAL HD/4K",FR: FRANCE 4 HD
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/207141.m3u8
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="FR: FRANCE 4 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6291.png?4580" group-title="FR| GÉNÉRAL HD/4K",FR: FRANCE 4 HD
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/220790.m3u8
+#EXTINF:-1 tvg-id="France5.fr" tvg-name="FR: FRANCE 5 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6290.jpg?92830" group-title="FR| GÉNÉRAL HD/4K",FR: FRANCE 5 4K
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/106905.m3u8
+#EXTINF:-1 tvg-id="France5.fr" tvg-name="FR: FRANCE 5 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6290.jpg?54593" group-title="FR| GÉNÉRAL HD/4K",FR: FRANCE 5 HD
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/207142.m3u8
+#EXTINF:-1 tvg-id="France5.fr" tvg-name="FR: FRANCE 5 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6290.jpg?95777" group-title="FR| GÉNÉRAL HD/4K",FR: FRANCE 5 HD
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/220789.m3u8
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="FR: FRANCE 24 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/328.jpg?48196" group-title="FR| GÉNÉRAL HD/4K",FR: FRANCE 24 4K
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/106902.m3u8
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="FR: FRANCE 24 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/328.jpg?22597" group-title="FR| GÉNÉRAL HD/4K",FR: FRANCE 24 HD
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/207149.m3u8
+#EXTINF:-1 tvg-id="FranceInfo.fr" tvg-name="FR: FRANCE INFO HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6287.jpg?50028" group-title="FR| GÉNÉRAL HD/4K",FR: FRANCE INFO HD
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/207215.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: FRANCE Ô HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6288.png?41618" group-title="FR| GÉNÉRAL HD/4K",FR: FRANCE Ô HD
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/207143.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: 13EME Rue 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6373.jpg?68346" group-title="FR| GÉNÉRAL HD/4K",FR: 13EME Rue 4K
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/106931.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: 13 EME RUE HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6373.jpg?43965" group-title="FR| GÉNÉRAL HD/4K",FR: 13 EME RUE HD
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/207211.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: 6 TER HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6369.jpg?50957" group-title="FR| GÉNÉRAL HD/4K",FR: 6 TER HD
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/207188.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: 6TER 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6369.jpg?57817" group-title="FR| GÉNÉRAL HD/4K",FR: 6TER 4K
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/106932.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: AB Moteur HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3058.png?44862" group-title="FR| GÉNÉRAL HD/4K",FR: AB Moteur HD
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/220893.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: ARTE 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6348.jpg?91219" group-title="FR| GÉNÉRAL HD/4K",FR: ARTE 4K
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/106935.m3u8
+#EXTINF:-1 tvg-id="ARTE.fr" tvg-name="FR: ARTE HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6348.jpg?73916" group-title="FR| GÉNÉRAL HD/4K",FR: ARTE HD
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/207145.m3u8
+#EXTINF:-1 tvg-id="BET.fr" tvg-name="FR: BET HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8291.jpg?41897" group-title="FR| GÉNÉRAL HD/4K",FR: BET HD
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/207184.m3u8
+#EXTINF:-1 tvg-id="BFMLyon.fr" tvg-name="FR: BFM Lyon 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6335.jpg?96336" group-title="FR| GÉNÉRAL HD/4K",FR: BFM Lyon 4K
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/570546.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: BFM 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6335.jpg?77508" group-title="FR| GÉNÉRAL HD/4K",FR: BFM 4K
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/106926.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: BFM TV HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8515.png?81625" group-title="FR| GÉNÉRAL HD/4K",FR: BFM TV HD
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/413905.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: BFM BUSINESS HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6335.jpg?15622" group-title="FR| GÉNÉRAL HD/4K",FR: BFM BUSINESS HD
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/207213.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: BFM TV HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6335.jpg?96336" group-title="FR| GÉNÉRAL HD/4K",FR: BFM TV HD
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/207229.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: C8 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6336.jpg?26847" group-title="FR| GÉNÉRAL HD/4K",FR: C8 4K
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/107012.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: C8 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6336.jpg?86895" group-title="FR| GÉNÉRAL HD/4K",FR: C8 HD
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/106930.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: C8 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6336.jpg?51311" group-title="FR| GÉNÉRAL HD/4K",FR: C8 HD
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/207185.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: CHERIE 25 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6322.png?14515" group-title="FR| GÉNÉRAL HD/4K",FR: CHERIE 25 4K
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/106938.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: CHERIE 25 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6322.png?8799" group-title="FR| GÉNÉRAL HD/4K",FR: CHERIE 25 HD
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/207189.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: CHERIE25 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6322.png?30129" group-title="FR| GÉNÉRAL HD/4K",FR: CHERIE25 HD
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/220787.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: CNEWS HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6314.jpg?56810" group-title="FR| GÉNÉRAL HD/4K",FR: CNEWS HD
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/207151.m3u8
+#EXTINF:-1 tvg-id="CStar.fr" tvg-name="FR: CSTAR HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6311.jpg?33536" group-title="FR| GÉNÉRAL HD/4K",FR: CSTAR HD
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/207212.m3u8
+#EXTINF:-1 tvg-id="CStar.fr" tvg-name="FR: CSTAR 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6311.jpg?40470" group-title="FR| GÉNÉRAL HD/4K",FR: CSTAR 4K
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/106939.m3u8
+#EXTINF:-1 tvg-id="CRTV.cm" tvg-name="FR: CRTV NEWS HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8495.png?60088" group-title="FR| GÉNÉRAL HD/4K",FR: CRTV NEWS HD
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1015502.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: E! ENTERTAINMENT 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6000.jpg?6458" group-title="FR| GÉNÉRAL HD/4K",FR: E! ENTERTAINMENT 4K
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/106944.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: E! Entertainment HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6000.jpg?87205" group-title="FR| GÉNÉRAL HD/4K",FR: E! Entertainment HD
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/220987.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: E! ENTERTAINMENT SD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6000.jpg?69855" group-title="FR| GÉNÉRAL HD/4K",FR: E! ENTERTAINMENT SD
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/207253.m3u8
+#EXTINF:-1 tvg-id="Euronews.fr" tvg-name="FR: EURO CHANNEL" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/418.png?8094" group-title="FR| GÉNÉRAL HD/4K",FR: EURO CHANNEL
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/207147.m3u8
+#EXTINF:-1 tvg-id="Euronews.fr" tvg-name="FR: EURONEWS HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12044.jpg?63606" group-title="FR| GÉNÉRAL HD/4K",FR: EURONEWS HD
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/207150.m3u8
+#EXTINF:-1 tvg-id="I24News.fr" tvg-name="FR: I24 NEWS 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/1159.png?49934" group-title="FR| GÉNÉRAL HD/4K",FR: I24 NEWS 4K
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/630319.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: L'EQUIPE 21 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6230.jpg?67651" group-title="FR| GÉNÉRAL HD/4K",FR: L'EQUIPE 21 HD
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/207256.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: L'EQUIPE 21 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6230.jpg?18698" group-title="FR| GÉNÉRAL HD/4K",FR: L'EQUIPE 21 4K
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/106945.m3u8
+#EXTINF:-1 tvg-id="NatGeoWild.fr" tvg-name="FR: GEO NATIONAL WILD 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8441.jpg?24926" group-title="FR| GÉNÉRAL HD/4K",FR: GEO NATIONAL WILD 4K
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/638914.m3u8
+#EXTINF:-1 tvg-id="LCI.fr" tvg-name="FR: LCI 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6286.png?79662" group-title="FR| GÉNÉRAL HD/4K",FR: LCI 4K
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/106952.m3u8
+#EXTINF:-1 tvg-id="LCI.fr" tvg-name="FR: LCI HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6286.png?41391" group-title="FR| GÉNÉRAL HD/4K",FR: LCI HD
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/207214.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: LCP HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6273.jpg?50345" group-title="FR| GÉNÉRAL HD/4K",FR: LCP HD
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/207252.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: M6 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6277.jpg?63204" group-title="FR| GÉNÉRAL HD/4K",FR: M6 4K
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/106954.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: M6 (UHD)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6277.jpg?1505" group-title="FR| GÉNÉRAL HD/4K",FR: M6 (UHD)
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/220808.m3u8
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="FR: M6 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6277.jpg?36172" group-title="FR| GÉNÉRAL HD/4K",FR: M6 HD
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/207144.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: MELODY 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/446.jpg?31492" group-title="FR| GÉNÉRAL HD/4K",FR: MELODY 4K
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/253655.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: MELODY HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/446.jpg?31492" group-title="FR| GÉNÉRAL HD/4K",FR: MELODY HD
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/253654.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: MTV 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/656.png?26898" group-title="FR| GÉNÉRAL HD/4K",FR: MTV 4K
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/106956.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: MTV LIVE HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/656.png?13446" group-title="FR| GÉNÉRAL HD/4K",FR: MTV LIVE HD
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/207174.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: My CANAL 1 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11085.jpg?13199" group-title="FR| GÉNÉRAL HD/4K",FR: My CANAL 1 4K
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/654392.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: My CANAL 2 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11085.jpg?13199" group-title="FR| GÉNÉRAL HD/4K",FR: My CANAL 2 4K
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/654393.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: My CANAL 3 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11085.jpg?13199" group-title="FR| GÉNÉRAL HD/4K",FR: My CANAL 3 4K
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/654394.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: My CANAL 4 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11085.jpg?13199" group-title="FR| GÉNÉRAL HD/4K",FR: My CANAL 4 4K
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/654395.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: My CANAL 5 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11085.jpg?13199" group-title="FR| GÉNÉRAL HD/4K",FR: My CANAL 5 4K
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/654396.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: NOVELAS 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8416.jpg?79034" group-title="FR| GÉNÉRAL HD/4K",FR: NOVELAS 4K
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/216723.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: NRJ 12 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/120/6255.jpg?22636" group-title="FR| GÉNÉRAL HD/4K",FR: NRJ 12 4K
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/536697.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: NRJ HITS HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6257.jpg?95641" group-title="FR| GÉNÉRAL HD/4K",FR: NRJ HITS HD
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/207249.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: NRJ HITS HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6257.jpg?51681" group-title="FR| GÉNÉRAL HD/4K",FR: NRJ HITS HD
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/207175.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: NRJ12 HITS HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6255.jpg?10179" group-title="FR| GÉNÉRAL HD/4K",FR: NRJ12 HITS HD
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/221015.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: OCS CHOC 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6254.jpg?65111" group-title="FR| GÉNÉRAL HD/4K",FR: OCS CHOC 4K
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/106965.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: OCS CHOC HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6253.jpg?34930" group-title="FR| GÉNÉRAL HD/4K",FR: OCS CHOC HD
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/207166.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: OCS CITY 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6252.jpg?14725" group-title="FR| GÉNÉRAL HD/4K",FR: OCS CITY 4K
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/106966.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: TECH&ECO" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6252.jpg?62303" group-title="FR| GÉNÉRAL HD/4K",FR: TECH&ECO
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/207165.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: OCS GEANTS 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6253.jpg?17116" group-title="FR| GÉNÉRAL HD/4K",FR: OCS GEANTS 4K
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/106967.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: OCS MAX 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6272.png?66666" group-title="FR| GÉNÉRAL HD/4K",FR: OCS MAX 4K
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/106968.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: OCS MAX HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6272.png?85817" group-title="FR| GÉNÉRAL HD/4K",FR: OCS MAX HD
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/207164.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: OCS PULP HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10163.jpg?50553" group-title="FR| GÉNÉRAL HD/4K",FR: OCS PULP HD
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/686141.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: PARAMOUNT CHANNEL 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/766.png?94881" group-title="FR| GÉNÉRAL HD/4K",FR: PARAMOUNT CHANNEL 4K
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/106969.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: PARAMOUNT CHANNEL HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/766.png?78512" group-title="FR| GÉNÉRAL HD/4K",FR: PARAMOUNT CHANNEL HD
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/207168.m3u8
+#EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-name="FR: PARIS PREMIERE HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6247.jpg?70366" group-title="FR| GÉNÉRAL HD/4K",FR: PARIS PREMIERE HD
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/207182.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: PLANETE A&E HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/9916.png?66563" group-title="FR| GÉNÉRAL HD/4K",FR: PLANETE A&E HD
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/207192.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: PLANETE A-E HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/4749.jpg?11454" group-title="FR| GÉNÉRAL HD/4K",FR: PLANETE A-E HD
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/220846.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: PLANETE CI HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/9916.png?66563" group-title="FR| GÉNÉRAL HD/4K",FR: PLANETE CI HD
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/207193.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: PLANETE+ A&E 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/9916.png?31200" group-title="FR| GÉNÉRAL HD/4K",FR: PLANETE+ A&E 4K
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/106971.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: PLANETE+ CI 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/9916.png?31200" group-title="FR| GÉNÉRAL HD/4K",FR: PLANETE+ CI 4K
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/106972.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: PLANETE+ HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/9916.png?66563" group-title="FR| GÉNÉRAL HD/4K",FR: PLANETE+ HD
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/207191.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: POLAR+ 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/1036.png?14782" group-title="FR| GÉNÉRAL HD/4K",FR: POLAR+ 4K
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/106920.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Record News HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/9689.jpg?8683" group-title="FR| GÉNÉRAL HD/4K",FR: Record News HD
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/221011.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: RFM TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6241.jpg?67255" group-title="FR| GÉNÉRAL HD/4K",FR: RFM TV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/207251.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: RFM TV 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6241.jpg?55148" group-title="FR| GÉNÉRAL HD/4K",FR: RFM TV 4K
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/106973.m3u8
+#EXTINF:-1 tvg-id="RFMTV.fr" tvg-name="FR: RFM TV HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6241.jpg?55471" group-title="FR| GÉNÉRAL HD/4K",FR: RFM TV HD
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/221001.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: ROUGE TV HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/790.jpeg?10002" group-title="FR| GÉNÉRAL HD/4K",FR: ROUGE TV HD
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/220812.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: RTL9 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6240.png?75616" group-title="FR| GÉNÉRAL HD/4K",FR: RTL9 4K
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/106924.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: RTL9 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6240.png?11753" group-title="FR| GÉNÉRAL HD/4K",FR: RTL9 HD
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/207183.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Real Time HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12358.jpg?46071" group-title="FR| GÉNÉRAL HD/4K",FR: Real Time HD
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/413908.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: SERIE CLUB HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6245.png?91721" group-title="FR| GÉNÉRAL HD/4K",FR: SERIE CLUB HD
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/207171.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: SYFY HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6611.png?65124" group-title="FR| GÉNÉRAL HD/4K",FR: SYFY HD
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/207170.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: TEVA 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6233.png?86935" group-title="FR| GÉNÉRAL HD/4K",FR: TEVA 4K
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/106974.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: TEVA HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6233.png?42380" group-title="FR| GÉNÉRAL HD/4K",FR: TEVA HD
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/207181.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: TFX 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6237.jpg?20495" group-title="FR| GÉNÉRAL HD/4K",FR: TFX 4K
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/106977.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: TFX HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6237.jpg?83200" group-title="FR| GÉNÉRAL HD/4K",FR: TFX HD
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/207255.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Tiji HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6231.jpg?83542" group-title="FR| GÉNÉRAL HD/4K",FR: Tiji HD
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/106978.m3u8
+#EXTINF:-1 tvg-id="Tiji.fr" tvg-name="FR: TIJI HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6231.jpg?81104" group-title="FR| GÉNÉRAL HD/4K",FR: TIJI HD
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/207235.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: TMC HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6228.png?83933" group-title="FR| GÉNÉRAL HD/4K",FR: TMC HD
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/106925.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: TMC HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6228.png?83933" group-title="FR| GÉNÉRAL HD/4K",FR: TMC HD
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/207187.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: TRACE TROPICAL" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6226.png?61434" group-title="FR| GÉNÉRAL HD/4K",FR: TRACE TROPICAL
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/207246.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: TRACE URBAN HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/4757.jpg?29457" group-title="FR| GÉNÉRAL HD/4K",FR: TRACE URBAN HD
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/207190.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: TREK HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6229.jpg?63613" group-title="FR| GÉNÉRAL HD/4K",FR: TREK HD
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/207209.m3u8
+#EXTINF:-1 tvg-id="TvBreizh.fr" tvg-name="FR: TV BREIZH 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6232.jpg?73673" group-title="FR| GÉNÉRAL HD/4K",FR: TV BREIZH 4K
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/106980.m3u8
+#EXTINF:-1 tvg-id="TvBreizh.fr" tvg-name="FR: TV BREIZH HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6232.jpg?87909" group-title="FR| GÉNÉRAL HD/4K",FR: TV BREIZH HD
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/207180.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: TV5 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/93.jpg?63201" group-title="FR| GÉNÉRAL HD/4K",FR: TV5 4K
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/106981.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: TV5 MONDE HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/93.jpg?482" group-title="FR| GÉNÉRAL HD/4K",FR: TV5 MONDE HD
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/220786.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: VICELAND HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13021.jpg?75201" group-title="FR| GÉNÉRAL HD/4K",FR: VICELAND HD
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/207194.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: W9 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6224.png?54328" group-title="FR| GÉNÉRAL HD/4K",FR: W9 HD
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/207186.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: W9 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6224.png?2338" group-title="FR| GÉNÉRAL HD/4K",FR: W9 4K
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/106984.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: WEO HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/2982.jpg?25029" group-title="FR| GÉNÉRAL HD/4K",FR: WEO HD
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/220985.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: F3 ALSACE HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3336.jpg?15056" group-title="FR| GÉNÉRAL HD/4K",FR: F3 ALSACE HD
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/413907.m3u8
 #EXTINF:-1 tvg-id="LifeTV.ci" tvg-logo="https://i.imgur.com/iz9qHZk.png" group-title="General",Life TV
 https://strhls.streamakaci.tv/str_lifetv_lifetv/str_lifetv_multi/playlist.m3u8
 #EXTINF:-1 tvg-id="RTILa3.ci" tvg-logo="https://i.imgur.com/HdNshgF.png" group-title="Music;Sports",RTI La 3 (1080p) [Not 24/7]
