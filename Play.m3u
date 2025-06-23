@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="2MMonde.ma@SD" tvg-logo="https://i.imgur.com/MvpntzA.png" group-title="General" http-referrer="https://2m.ma" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0",2M Monde
+#EXTVLCOPT:http-referrer=https://2m.ma
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="###### DAZN LIGUE⚽1 PPV ᴴᴰ ######" tvg-logo="" group-title="FR| DAZN LIGUE 1 PPV",###### DAZN LIGUE⚽1 PPV ᴴᴰ ######
 http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/995530.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR: LIGUE⚽1 1 ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="FR| DAZN LIGUE 1 PPV",FR: LIGUE⚽1 1 ᴴᴰ
@@ -43,10 +47,6 @@ http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/995511.m3u8
 http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/995510.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR: LIGUE⚽1 10 ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="FR| DAZN LIGUE 1 PPV",FR: LIGUE⚽1 10 ᵁᴴᴰ
 http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/995509.m3u8
-#EXTINF:-1 tvg-id="2MMonde.ma@SD" tvg-logo="https://i.imgur.com/MvpntzA.png" group-title="General" http-referrer="https://2m.ma" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0",2M Monde
-#EXTVLCOPT:http-referrer=https://2m.ma
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
 #EXTINF:-1 tvg-id="2MMonde.ma@Plus1" tvg-logo="https://i.imgur.com/MvpntzA.png" group-title="General",2M Monde +1 (1080p)
 https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
 #EXTINF:-1 tvg-id="2STV.sn" tvg-logo="https://i.imgur.com/WByVBZf.png" group-title="Culture",2STV
