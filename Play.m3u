@@ -1,4 +1,48 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="###### DAZN LIGUE⚽1 PPV ᴴᴰ ######" tvg-logo="" group-title="FR| DAZN LIGUE 1 PPV",###### DAZN LIGUE⚽1 PPV ᴴᴰ ######
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/995530.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: LIGUE⚽1 1 ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="FR| DAZN LIGUE 1 PPV",FR: LIGUE⚽1 1 ᴴᴰ
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/995529.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: LIGUE⚽1 2 ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="FR| DAZN LIGUE 1 PPV",FR: LIGUE⚽1 2 ᴴᴰ
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/995528.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: LIGUE⚽1 3 ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="FR| DAZN LIGUE 1 PPV",FR: LIGUE⚽1 3 ᴴᴰ
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/995527.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: LIGUE⚽1 4 ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="FR| DAZN LIGUE 1 PPV",FR: LIGUE⚽1 4 ᴴᴰ
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/995526.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: LIGUE⚽1 5 ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="FR| DAZN LIGUE 1 PPV",FR: LIGUE⚽1 5 ᴴᴰ
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/995525.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: LIGUE⚽1 6 ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="FR| DAZN LIGUE 1 PPV",FR: LIGUE⚽1 6 ᴴᴰ
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/995524.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: LIGUE⚽1 7 ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="FR| DAZN LIGUE 1 PPV",FR: LIGUE⚽1 7 ᴴᴰ
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/995523.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: LIGUE⚽1 8 ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="FR| DAZN LIGUE 1 PPV",FR: LIGUE⚽1 8 ᴴᴰ
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/995522.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: LIGUE⚽1 9 ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="FR| DAZN LIGUE 1 PPV",FR: LIGUE⚽1 9 ᴴᴰ
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/995521.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: LIGUE⚽1 10 ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="FR| DAZN LIGUE 1 PPV",FR: LIGUE⚽1 10 ᴴᴰ
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/995520.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="###### DAZN LIGUE⚽1 PPV ᵁᴴᴰ ######" tvg-logo="" group-title="FR| DAZN LIGUE 1 PPV",###### DAZN LIGUE⚽1 PPV ᵁᴴᴰ ######
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/995519.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: LIGUE⚽1 1 ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="FR| DAZN LIGUE 1 PPV",FR: LIGUE⚽1 1 ᵁᴴᴰ
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/995518.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: LIGUE⚽1 2 ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="FR| DAZN LIGUE 1 PPV",FR: LIGUE⚽1 2 ᵁᴴᴰ
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/995517.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: LIGUE⚽1 3 ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="FR| DAZN LIGUE 1 PPV",FR: LIGUE⚽1 3 ᵁᴴᴰ
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/995516.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: LIGUE⚽1 4 ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="FR| DAZN LIGUE 1 PPV",FR: LIGUE⚽1 4 ᵁᴴᴰ
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/995515.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: LIGUE⚽1 5 ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="FR| DAZN LIGUE 1 PPV",FR: LIGUE⚽1 5 ᵁᴴᴰ
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/995514.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: LIGUE⚽1 6 ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="FR| DAZN LIGUE 1 PPV",FR: LIGUE⚽1 6 ᵁᴴᴰ
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/995513.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: LIGUE⚽1 7 ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="FR| DAZN LIGUE 1 PPV",FR: LIGUE⚽1 7 ᵁᴴᴰ
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/995512.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: LIGUE⚽1 8 ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="FR| DAZN LIGUE 1 PPV",FR: LIGUE⚽1 8 ᵁᴴᴰ
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/995511.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: LIGUE⚽1 9 ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="FR| DAZN LIGUE 1 PPV",FR: LIGUE⚽1 9 ᵁᴴᴰ
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/995510.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: LIGUE⚽1 10 ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="FR| DAZN LIGUE 1 PPV",FR: LIGUE⚽1 10 ᵁᴴᴰ
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/995509.m3u8
 #EXTINF:-1 tvg-id="2MMonde.ma@SD" tvg-logo="https://i.imgur.com/MvpntzA.png" group-title="General" http-referrer="https://2m.ma" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0",2M Monde
 #EXTVLCOPT:http-referrer=https://2m.ma
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
